@@ -6,6 +6,10 @@ This repository consists of our project for Creative Problem-solving and Innovat
 2. To analyze the medical needs of different regions to provide timely attention to even the remotest areas.
 3. To make the medical supply chain more efficient.
 
+## Users:
+1. Patients
+2. Government IT admin
+
 ### Made with
 ---
 
