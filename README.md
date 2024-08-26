@@ -15,7 +15,7 @@ This repository consists of our project for Creative Problem-solving and Innovat
 ### Made with
 ---
 
-![HTML](Images/HTML5.png)
+![PHP](Images/php.png)
 ![CSS](Images/CSS.png)
 ![JS](Images/JavaScript.png)
 
