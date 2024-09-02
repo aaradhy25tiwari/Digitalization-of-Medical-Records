@@ -10,5 +10,6 @@
 </head>
   <body>
         <h1 style="display:flex; text-align:center; justify-content:center; align-items:center;"> Congratulation !!! Login Successfull!</h1>
+        Welcome to you Digital Medical Record
   </body>
 </html>
