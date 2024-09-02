@@ -1,5 +1,5 @@
 .navbar {
-    background-color: #333;
+    background-color: #453d3d;
     overflow: hidden;
   }
   
@@ -21,6 +21,23 @@
   
   /* Add a color to the active/current link */
   .navbar a.active {
-    background-color: #04AA6D;
+    background-color: #07b776;
     color: white;
   }
+
+  #form{
+    background-color: rgb(255, 255, 255);
+    width:28%;
+    border-radius: 6px;
+    margin:120px auto;
+    padding:40px;
+    box-shadow: 10px 10px 5px rgb(80, 11, 77);
+    margin-top: 25px;
+}
+
+input{
+  width: 90%;
+  border-radius: 4px;
+  border: 3px solid #f6efef;
+  padding: 5px;
+}
