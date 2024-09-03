@@ -62,7 +62,8 @@
                 <input type="text" id="user" name="user"></br></br>
                 <label>Password: </label>
                 <input type="password" id="pass" name="pass" required></br></br>
-                <input type="submit" id="btn" value="Login" name = "submit"/>
+                <input type="submit" id="btn" value="Login" name = "submit"/></br></br>
+                <a href="./register.php">new user? signup</a>
             </form>
         </div>
         <script>
@@ -75,6 +76,5 @@
                 
             }
         </script>
-        <a href="./register.php">new user? signup</a>
     </body>
 </html>
