@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Medical Prescription Form</title>
+    <link rel="stylesheet" href="styles_forms.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <div class="logo"></div>
+            <div class="form-title">
+                <h2>Out Patient / Prescription Form</h2>
+            </div>
+        </div>
+
+        <div class="patient-info">
+            <table>
+                <tr>
+                    <td class="patient-label">Patient Label</td>
+                    <td class="right-align">
+                        <label for="name">Name:</label>
+                        <input type="text" id="name">
+                    </td>
+                </tr>
+            </table>
+            <table>
+                <tr>
+                    <td><label for="mrn">MRN:</label> <input type="text" id="mrn"></td>
+                    <td><label for="date">Date:</label> <input type="date" id="date"></td>
+                    <td><label for="age">Age:</label> <input type="number" id="age"></td>
+                    <td class="sex-field">
+                        <label for="sex">Sex:</label>
+                        <input type="radio" id="male" name="sex" value="male"> <label for="male">Male</label>
+                        <input type="radio" id="female" name="sex" value="female"> <label for="female">Female</label>
+                    </td>
+                </tr>
+            </table>
+        </div>
+
+        <div class="medication-info">
+            <table>
+                <thead>
+                    <tr>
+                        <th>Description And Strength Of Drug</th>
+                        <th>Dose-Frequency-Duration</th>
+                        <th>Action</th>
+                    </tr>
+                </thead>
+                <tbody id="medication-list">
+                    <tr>
+                        <td><textarea rows="2"></textarea></td>
+                        <td><textarea rows="2"></textarea></td>
+                        <td><button type="button" onclick="removeRow(this)">Remove</button></td>
+                    </tr>
+                </tbody>
+            </table>
+            <button class="add-row" type="button" onclick="addRow()">Add More</button>
+        </div>
+
+        <div class="diagnosis-info">
+            <table>
+                <tr>
+                    <td><label for="diagnosis">Diagnosis:</label> <input type="text" id="diagnosis"></td>
+                </tr>
+                <tr>
+                    <td><label for="allergies">Allergies:</label> <input type="text" id="allergies"></td>
+                </tr>
+            </table>
+        </div>
+
+        <div class="footer-info">
+            <table>
+                <tr>
+                    <td><label for="doctor-name">Doctor Name:</label> <input type="text" id="doctor-name"></td>
+                </tr>
+                <tr>
+                    <td><label for="dispensed-by">Dispensed by:</label> <input type="text" id="dispensed-by"></td>
+                </tr>
+                <tr>
+                    <td><label for="checked-by">Checked by:</label> <input type="text" id="checked-by"></td>
+                </tr>
+            </table>
+        </div>
+    </div>
+
+    <script>
+        function addRow() {
+            const table = document.getElementById('medication-list');
+            const row = document.createElement('tr');
+            row.innerHTML = `
+                <td><textarea rows="2"></textarea></td>
+                <td><textarea rows="2"></textarea></td>
+                <td><button type="button" onclick="removeRow(this)">Remove</button></td>
+            `;
+            table.appendChild(row);
+        }
+
+        function removeRow(button) {
+            button.closest('tr').remove();
+        }
+    </script>
+</body>
+</html>
+
