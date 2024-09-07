@@ -47,17 +47,6 @@ body {
   padding: 0;
 }
 
-.aarogya-setu-app {
-  text-align: center;
-  padding: 20px;
-}
-
-.status-icons {
-  display: flex;
-  justify-content: space-around;
-  margin-bottom: 20px;
-}
-
 
 .helpline-cards {
   display: flex;
@@ -75,4 +64,12 @@ body {
 .call-buttons {
   display: flex;
   justify-content: center;
+}
+
+@media screen and (max-width: 570px) {
+  #form {
+    width: 75%;
+    margin-left:none;
+    padding:40px;
+  }
 }

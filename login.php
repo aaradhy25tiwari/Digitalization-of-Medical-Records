@@ -1,64 +1,74 @@
 <?php
-    session_start();
-    if(isset($_SESSION['username'])){
-        header("Location: welcome.php");
-    }
-?>
-<?php
-    $login = false;
-    include('connection.php');
-    if (isset($_POST['submit'])) {
-        $username = $_POST['user'];
-        $password = $_POST['pass'];
-        echo $password;
-        $sql = "select * from signup where username = '$username'or email = '$username'";  
-        $result = mysqli_query($conn, $sql);  
-        $row = mysqli_fetch_array($result, MYSQLI_ASSOC);  
-        $count = mysqli_num_rows($result);  
-        
-        if($row){  
-            echo $count;
-
-            if(password_verify($password, $row["password"])){
-                $login=true;
+$login = false;
+$showError = false;
+if($_SERVER["REQUEST_METHOD"] == "POST"){
+    include 'php/connection.php';
+    $username = $_POST["user"];
+    $password = $_POST["pass"]; 
+    
+     
+    // $sql = "Select * from signup where username='$username' AND password='$password'";
+    $sql = "Select * from signup where username='$username'";
+    $result = mysqli_query($conn, $sql);
+    $num = mysqli_num_rows($result);
+    if ($num == 1){/*
+        while($row=mysqli_fetch_assoc($result)){
+            if (password_verify($password, $row['password'])){ */
+                $login = true;
                 session_start();
-
-                $sql = "select username from signup where username = '$username'or email = '$username'";     
-                $r = mysqli_fetch_array(mysqli_query($conn, $sql), MYSQLI_ASSOC);  
-
-                $_SESSION['username']= $r['username'];
                 $_SESSION['loggedin'] = true;
-                header("Location: welcome.php");
+                $_SESSION['username'] = $username;
+                header("location: welcome.php");
+           /* }
+            else{
+                $showError = "Invalid Credentials";
             }
-        }  
-        else{  
-            echo  '<script>
-                        
-                        alert("Login failed. Invalid username or password!!")
-                        window.location.href = "login.php";
-                    </script>';
-        }     
+        }*/
+        
+    } 
+    else{
+        $showError = "Invalid Credentials";
     }
-    ?>
-    <?php 
-    include("connection.php");
+}
     
-    ?>
-    
+?>
+
 <html>
     <head>
         <title>MeDDeck | Login</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
-        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="CSS/style.css">
         <link rel="shortcut icon" href="Images/icon.ico" type="image/x-icon" />
 
     </head>
     <body>
+
+    <?php
+    if($login){
+    echo ' <div class="alert alert-success alert-dismissible fade show" role="alert">
+        <strong>Success!</strong> You are logged in
+        <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+        </button>
+    </div> ';
+    }
+    if($showError){
+    echo ' <div class="alert alert-danger alert-dismissible fade show" role="alert">
+        <strong>Error!</strong> '. $showError.'
+        <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+        </button>
+    </div> ';
+    }
+    ?>
+    
+
         <br><br>
+        
         <div id="form">
-            <h1 id="heading">Login Form</h1>
-            <form name="form" action="login.php" method="POST" required>
+            <h1 id="heading">MeDDeck | Login</h1>
+            <form name="form" action="login.php" method="POST" required onsubmit="return isvalid()">
                 <label>Enter Email: </label>
                 <input type="text" id="user" name="user"></br></br>
                 <label>Password: </label>
@@ -70,11 +80,18 @@
         <script>
             function isvalid(){
                 var user = document.form.user.value;
-                if(user.length==""){
-                    alert(" Enter username or email id!");
+                if(user.length=="" && pass.length==""){
+                    alert(" Username and password field is empty!!!");
                     return false;
                 }
-                
+                else if(user.length==""){
+                    alert(" Username field is empty!!!");
+                    return false;
+                }
+                else if(pass.length==""){
+                    alert(" Password field is empty!!!");
+                    return false;
+                }
             }
         </script>
     </body>
