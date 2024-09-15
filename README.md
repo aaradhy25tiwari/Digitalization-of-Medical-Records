@@ -12,9 +12,13 @@ This repository consists of our project for Creative Problem-solving and Innovat
 1. Patients
 2. Government IT admin
 
+### Resources Used:
+1. [GOOGLE Fonts](https://fonts.google.com/icons) - for Icons
+
 ### Made with
 ---
 
+![HTML](Images/HTML5.png)
 ![PHP](Images/php.png)
 ![CSS](Images/CSS.png)
 ![JS](Images/JavaScript.png)
