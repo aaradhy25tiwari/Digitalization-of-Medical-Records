@@ -70,6 +70,34 @@
             </table>
         </div>
 
+        <!-- Advice Section -->
+        <div class="advice-section">
+            <h3>Advice</h3>
+            <table>
+                <tbody id="advice-list">
+                    <tr>
+                        <td><textarea rows="2"></textarea></td>
+                        <td><button type="button" onclick="removeAdviceRow(this)">Remove</button></td>
+                    </tr>
+                </tbody>
+            </table>
+            <button class="add-row" type="button" onclick="addAdviceRow()">Add More Advice</button>
+        </div>
+
+        <!-- Precautions Section -->
+        <div class="precaution-section">
+            <h3>Precautions</h3>
+            <table>
+                <tbody id="precaution-list">
+                    <tr>
+                        <td><textarea rows="2"></textarea></td>
+                        <td><button type="button" onclick="removePrecautionRow(this)">Remove</button></td>
+                    </tr>
+                </tbody>
+            </table>
+            <button class="add-row" type="button" onclick="addPrecautionRow()">Add More Precautions</button>
+        </div>
+
         <div class="footer-info">
             <table>
                 <tr>
@@ -86,6 +114,7 @@
     </div>
 
     <script>
+        // Function to add a row to the medication table
         function addRow() {
             const table = document.getElementById('medication-list');
             const row = document.createElement('tr');
@@ -97,10 +126,42 @@
             table.appendChild(row);
         }
 
+        // Function to remove a row from the medication table
         function removeRow(button) {
+            button.closest('tr').remove();
+        }
+
+        // Function to add a row to the advice section
+        function addAdviceRow() {
+            const table = document.getElementById('advice-list');
+            const row = document.createElement('tr');
+            row.innerHTML = `
+                <td><textarea rows="2"></textarea></td>
+                <td><button type="button" onclick="removeAdviceRow(this)">Remove</button></td>
+            `;
+            table.appendChild(row);
+        }
+
+        // Function to remove a row from the advice section
+        function removeAdviceRow(button) {
+            button.closest('tr').remove();
+        }
+
+        // Function to add a row to the precautions section
+        function addPrecautionRow() {
+            const table = document.getElementById('precaution-list');
+            const row = document.createElement('tr');
+            row.innerHTML = `
+                <td><textarea rows="2"></textarea></td>
+                <td><button type="button" onclick="removePrecautionRow(this)">Remove</button></td>
+            `;
+            table.appendChild(row);
+        }
+
+        // Function to remove a row from the precautions section
+        function removePrecautionRow(button) {
             button.closest('tr').remove();
         }
     </script>
 </body>
 </html>
-
