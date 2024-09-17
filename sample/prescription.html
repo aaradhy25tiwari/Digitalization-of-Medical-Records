@@ -27,14 +27,22 @@
             </table>
             <table>
                 <tr>
+                    <td><label for="aadhaar">Aadhaar Number:</label> <input type="text" id="aadhaar"></td>
                     <td><label for="mrn">MRN:</label> <input type="text" id="mrn"></td>
                     <td><label for="date">Date:</label> <input type="date" id="date"></td>
+                </tr>
+                <tr>
                     <td><label for="age">Age:</label> <input type="number" id="age"></td>
                     <td class="sex-field">
                         <label for="sex">Sex:</label>
                         <input type="radio" id="male" name="sex" value="male"> <label for="male">Male</label>
                         <input type="radio" id="female" name="sex" value="female"> <label for="female">Female</label>
                     </td>
+                    <td><label for="height">Height (cm):</label> <input type="number" id="height" onchange="calculateBMI()"></td>
+                    <td><label for="weight">Weight (kg):</label> <input type="number" id="weight" onchange="calculateBMI()"></td>
+                </tr>
+                <tr>
+                    <td colspan="2"><label for="bmi">BMI:</label> <input type="text" id="bmi" readonly></td>
                 </tr>
             </table>
         </div>
@@ -70,36 +78,29 @@
             </table>
         </div>
 
-        <!-- Advice Section -->
-        <div class="advice-section">
-            <h3>Advice</h3>
+        <div class="advice-precautions">
             <table>
+                <thead>
+                    <tr>
+                        <th>Advice and Precautions</th>
+                        <th>Action</th>
+                    </tr>
+                </thead>
                 <tbody id="advice-list">
                     <tr>
                         <td><textarea rows="2"></textarea></td>
-                        <td><button type="button" onclick="removeAdviceRow(this)">Remove</button></td>
+                        <td><button type="button" onclick="removeRow(this)">Remove</button></td>
                     </tr>
                 </tbody>
             </table>
-            <button class="add-row" type="button" onclick="addAdviceRow()">Add More Advice</button>
-        </div>
-
-        <!-- Precautions Section -->
-        <div class="precaution-section">
-            <h3>Precautions</h3>
-            <table>
-                <tbody id="precaution-list">
-                    <tr>
-                        <td><textarea rows="2"></textarea></td>
-                        <td><button type="button" onclick="removePrecautionRow(this)">Remove</button></td>
-                    </tr>
-                </tbody>
-            </table>
-            <button class="add-row" type="button" onclick="addPrecautionRow()">Add More Precautions</button>
+            <button class="add-row" type="button" onclick="addAdvice()">Add More Advice</button>
         </div>
 
         <div class="footer-info">
             <table>
+                <tr>
+                    <td><label for="followup-date">Follow-up Date:</label> <input type="date" id="followup-date"></td>
+                </tr>
                 <tr>
                     <td><label for="doctor-name">Doctor Name:</label> <input type="text" id="doctor-name"></td>
                 </tr>
@@ -111,10 +112,11 @@
                 </tr>
             </table>
         </div>
+
+        <button type="submit">Submit</button>
     </div>
 
     <script>
-        // Function to add a row to the medication table
         function addRow() {
             const table = document.getElementById('medication-list');
             const row = document.createElement('tr');
@@ -126,41 +128,28 @@
             table.appendChild(row);
         }
 
-        // Function to remove a row from the medication table
-        function removeRow(button) {
-            button.closest('tr').remove();
-        }
-
-        // Function to add a row to the advice section
-        function addAdviceRow() {
+        function addAdvice() {
             const table = document.getElementById('advice-list');
             const row = document.createElement('tr');
             row.innerHTML = `
                 <td><textarea rows="2"></textarea></td>
-                <td><button type="button" onclick="removeAdviceRow(this)">Remove</button></td>
+                <td><button type="button" onclick="removeRow(this)">Remove</button></td>
             `;
             table.appendChild(row);
         }
 
-        // Function to remove a row from the advice section
-        function removeAdviceRow(button) {
+        function removeRow(button) {
             button.closest('tr').remove();
         }
 
-        // Function to add a row to the precautions section
-        function addPrecautionRow() {
-            const table = document.getElementById('precaution-list');
-            const row = document.createElement('tr');
-            row.innerHTML = `
-                <td><textarea rows="2"></textarea></td>
-                <td><button type="button" onclick="removePrecautionRow(this)">Remove</button></td>
-            `;
-            table.appendChild(row);
-        }
+        function calculateBMI() {
+            const height = document.getElementById('height').value / 100; // Convert height to meters
+            const weight = document.getElementById('weight').value;
+            const bmi = (weight / (height * height)).toFixed(2);
 
-        // Function to remove a row from the precautions section
-        function removePrecautionRow(button) {
-            button.closest('tr').remove();
+            if (!isNaN(bmi) && bmi > 0) {
+                document.getElementById('bmi').value = bmi;
+            }
         }
     </script>
 </body>
