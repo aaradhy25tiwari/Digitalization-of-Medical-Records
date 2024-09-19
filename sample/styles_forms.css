@@ -72,6 +72,14 @@ input[type="radio"] {
     margin: 0 5px 0 10px;
 }
 
+input[id="bmi"] {
+    border-color: transparent;
+}
+
+input[id="height"] {
+    box-sizing: border-box;
+}
+
 label {
     display: inline-block;
     margin-bottom: 5px;
