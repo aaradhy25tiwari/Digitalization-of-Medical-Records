@@ -1,6 +1,12 @@
 .navbar {
     background-color: #333;
     overflow: hidden;
+    box-shadow: 0 0 4px #bbd0e2;
+    position: fixed;
+    top: 0;
+    z-index: 99;
+    left: 0;
+    right: 0;
   }
   
   /* Style the links inside the navigation bar */
@@ -24,6 +30,7 @@
     background-color: #04AA6D;
     color: white;
   }
+  
   .status-icons {
     display: flex;
     justify-content: space-around;
@@ -52,3 +59,7 @@
   .login{
     float: right;
   }
+
+.intro {
+  margin-top: 80px;
+}
