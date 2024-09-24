@@ -14,6 +14,7 @@ This repository consists of our project for Creative Problem-solving and Innovat
 
 ### Resources Used:
 1. [GOOGLE Fonts](https://fonts.google.com/icons) - for Icons
+2. [NewsAPI](https://newsapi.org/) - for News
 
 ### Made with
 ---
