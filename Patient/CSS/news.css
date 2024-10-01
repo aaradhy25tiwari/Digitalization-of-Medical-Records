@@ -79,6 +79,34 @@ nav {
     color: var(--accent-color);
 }
 
+#news-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.news-article {
+    width: 300px;
+    margin: 20px;
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+.news-article img {
+    width: 100%;
+    height: auto;
+}
+
+.news-article h2 {
+    font-size: 18px;
+    margin: 0;
+}
+
+.news-article p {
+    font-size: 14px;
+    margin: 10px 0;
+}
+
 .search-bar {
     height: 32px;
     gap: 8px;
