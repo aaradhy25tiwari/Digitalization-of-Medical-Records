@@ -22,6 +22,9 @@ This repository consists of our project for Creative Problem-solving and Innovat
 ![HTML](Images/HTML5.png)
 ![CSS](Images/CSS.png)
 ![JS](Images/JavaScript.png)
+![Node.JS](Images/node-js.png)
 ![PHP](Images/php.png)
+![MySQL](Images/mysql.png)
+![JQuery](Images/jquery.png)
 
 <br>
