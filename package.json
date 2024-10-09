@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "azure-maps-control": "^3.4.0",
     "newsapi": "^2.4.1"
   }
 }

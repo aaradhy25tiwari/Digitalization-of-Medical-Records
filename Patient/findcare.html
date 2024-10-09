@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Find Care - India</title>
+    <link rel="stylesheet" href="./CSS/findcare.css">
+    <script src="https://atlas.microsoft.com/sdk/javascript/mapcontrol/2/atlas.min.js"></script> <!-- Azure Maps SDK -->
+    <link rel="stylesheet" href="https://atlas.microsoft.com/sdk/javascript/mapcontrol/2/atlas.min.css" />
+    <style>
+        .region-selection {
+            margin-top: 20px; /* Add margin between navbar and region selection */
+        }
+    </style>
+</head>
+<body>
+    <!--Header section starts here-->
+    <section class="header">
+        <nav class="navbar">
+            <a href="welcome.html" class="logo">
+                <img src="Images/logo.png" alt="MeDDeck" height="20">
+            </a>
+            <a href="./welcome.html">Home</a>
+            <a href="./news.html">News</a>
+            <a class="active" href="./findcare.html">Find Care</a>
+            <a href="#about">About</a>
+            <div class="login">
+                <a href="./login.html">Logout</a>
+            </div>
+        </nav>
+    </section>
+    <!--Header section ends here-->
+    <section class="region-selection" style="margin-top:80px">
+        <h2>Select Region or Use Current Location:</h2>
+        <form id="regionForm">
+            <div>
+                <label>
+                    <input type="radio" name="locationOption" value="pincode" checked onclick="toggleLocationInput()"> Use Pincode
+                </label>
+                <label>
+                    <input type="radio" name="locationOption" value="currentLocation" onclick="toggleLocationInput()"> Use Current Location
+                </label>
+            </div>
+            <div class="dropdowns" id="pincodeInput">
+                <input type="text" id="pincode" placeholder="Enter Pincode">
+            </div>
+            <div class="dropdowns" id="currentLocationButton" style="display: none;">
+                <button type="button" onclick="getCurrentLocation()">Use Current Location</button>
+            </div>
+        </form>
+    </section>
+
+    <section class="find-care">
+        <h2>Find Care</h2>
+        <p>Here you can find addresses and contact details for medical centers, hospitals, pharmacies, and more.</p>
+
+        <form id="careSearchForm">
+            <div class="search-fields">
+                <select id="careType">
+                    <option value="hospital">Hospitals</option>
+                    <option value="pharmacy">Pharmacies</option>
+                    <option value="dentists">Dentists</option>
+                </select>
+                <input type="text" id="receptionName" placeholder="Search by name or range">
+                <button type="button" onclick="searchCare()">Search</button>
+            </div>
+        </form>
+
+        <!-- Table for displaying results -->
+        <table id="resultsTable">
+            <thead>
+                <tr>
+                    <th>Place Name</th>
+                    <th>Distance (km)</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+
+        <!-- Azure Map -->
+        <div id="myMap" style="width: 100%; height: 500px;"></div>
+    </section>
+
+    <script src="./JS/findcare.js"></script>
+</body>
+</html>
