@@ -67,22 +67,18 @@
                 <table>
                     <thead>
                         <tr>
-                            <th>Description And Strength Of Drug</th>
+                            <th>Drug Description</th>
                             <th>Dose-Frequency-Duration</th>
-                            <th>Action</th>
                         </tr>
                     </thead>
-                    <tbody id="medication-list">
+                    <tbody>
                         <tr>
-                            <td><textarea rows="2" name="drug_description[]" placeholder="Enter Drug Description"></textarea></td>
-                            <td><textarea rows="2" name="dose_frequency[]" placeholder="Enter Dose, Frequency, Duration"></textarea></td>
-                            <td><button type="button" onclick="removeRow(this)">Remove</button></td>
+                            <td><textarea name="drug_description[]" rows="2"></textarea></td>
+                            <td><textarea name="dose_frequency[]" rows="2"></textarea></td>
                         </tr>
-                    </tbody>
+                        </tbody>
                 </table>
-                <button class="add-row" type="button" onclick="addRow()">Add More</button>
             </div>
-        
 
             <div class="diagnosis-info">
                 <table>
@@ -121,12 +117,7 @@
                     <tr>
                         <td><label for="doctor-name">Doctor Name:</label> <input type="text" id="doctor-name" name="doctor-name" placeholder="Enter Doctor's Name" required></td>
                     </tr>
-                    <tr>
-                        <td><label for="dispensed-by">Dispensed by:</label> <input type="text" id="dispensed-by" name="dispensed-by" placeholder="Enter Dispenser's Name"></td>
-                    </tr>
-                    <tr>
-                        <td><label for="checked-by">Checked by:</label> <input type="text" id="checked-by" name="checked-by" placeholder="Enter Person Who Checked"></td>
-                    </tr>
+                    
                 </table>
             </div>
 
