@@ -42,6 +42,9 @@
                             //Redirect user to welcome page
                             header("location: ../welcome.html");   
                         }
+                        else{
+                            header("location: ../login.html");
+                        }
                     }
                 }
 
