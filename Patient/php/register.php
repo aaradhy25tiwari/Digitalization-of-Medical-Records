@@ -21,11 +21,18 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     }
 
     // Get form data
+    $aadhaar = $_POST["aadhaar"];
+    $name = $_POST["name"];
     $phone = $_POST["phone"];
     $email = $_POST["email"]; // Not recommended to store plain text email for security reasons
     $password = password_hash($_POST["pass"], PASSWORD_DEFAULT); // Hash password for security
     $cpassword = password_hash($_POST["cpass"], PASSWORD_DEFAULT); // Hash confirm password
+    $dob = $_POST["dob"];
+    $gender = $_POST["gender"];
     $blood = $_POST["blood"];
+    $country = $_POST["country"];
+    $state = $_POST["state"];
+    $city = $_POST["city"];
   
     /*// Check if password and confirm password match
     if ($password != $cpassword) {
@@ -34,7 +41,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     }*/
   
     // Prepare SQL statement with parameterized query for security
-    $sql = "INSERT INTO signup (phone, username, password, bloodType) VALUES (?, ?, ?, ?)";
+    $sql = "INSERT INTO signup (AadharCard, name, phone, username, password, DOB, gender, bloodType, country, state, city) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)";
     $stmt = $conn->prepare($sql);
     $stmt->bind_param("ssss", $phone, $email, $password, $blood);
   

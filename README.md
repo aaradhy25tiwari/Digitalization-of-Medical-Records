@@ -19,7 +19,7 @@ This repository consists of our project for Creative Problem-solving and Innovat
 
 1. [GOOGLE Fonts](https://fonts.google.com/icons) - for Icons
 2. [NewsAPI](https://newsapi.org/) - for News
-3. [Azure Maps API](https://learn.microsoft.com/en-us/azure/azure-maps/) - for Maps
+3. [Azure Maps API](https://learn.microsoft.com/en-us/azure/azure-maps/) - for Maps and nearby search
 
 ### Made with
 

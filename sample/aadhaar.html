@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aadhaar Verification (Demo)</title>
+    <link rel="stylesheet" href="./aadhaar.css">
+</head>
+<body>
+    <h1>Aadhaar Verification (Demo)</h1>
+    <div id="form-container">
+        <label for="aadhaarNumber">Aadhaar Number:</label>
+        <input type="text" id="aadhaarNumber" placeholder="Enter your Aadhaar Number">
+        <button id="generateOTP">Generate OTP</button>
+    </div>
+    <div id="otp-container" style="display: none;">
+        <label for="otp">Enter OTP:</label>
+        <input type="text" id="otp" placeholder="Enter OTP received on mobile">
+        <button id="verifyOTP">Verify Aadhaar</button>
+    </div>
+    <p id="verification-message"></p>
+    <script src="./aadhaar.js"></script>
+</body>
+</html>
