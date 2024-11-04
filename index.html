@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Healthcare Monitoring Dashboard</title>
+    <link rel="stylesheet" href="styles_dashboard.css">
+</head>
+<body>
+    <div class="sidebar">
+        <h2>Dashboard</h2>
+        <button onclick="showSection('patients')">Patient Information</button>
+        <button onclick="showSection('doctors')">Doctor Information</button>
+        <button onclick="showSection('statistics')">Statistics</button>
+    </div>
+
+    <div class="content">
+        <h1>Healthcare Monitoring Dashboard</h1>
+        
+        <!-- Patient Information Section -->
+        <div id="patients" class="section">
+            <h2>Patient Information</h2>
+            <select id="patientSelect" onchange="loadPatientDetails()">
+                <option value="">Select Patient</option>
+            </select>
+            <div id="patientDetails"></div>
+        </div>
+        
+        <!-- Doctor Information Section -->
+        <div id="doctors" class="section" style="display: none;">
+            <h2>Doctor Information</h2>
+            <select id="doctorSelect" onchange="loadDoctorDetails()">
+                <option value="">Select Doctor</option>
+            </select>
+            <div id="doctorDetails"></div>
+        </div>
+        
+        <!-- Statistics Section -->
+        <div id="statistics" class="section" style="display: none;">
+            <h2>Statistics</h2>
+            <!-- You can use Chart.js here for better data visualization -->
+            <canvas id="ageChart" width="400" height="200"></canvas>
+            <canvas id="bmiChart" width="400" height="200"></canvas>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
