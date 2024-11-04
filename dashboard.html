@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Patient Dashboard</title>
+  <link rel="stylesheet" href="styles_prediction.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Patient Dashboard</h1>
+      <p>View statistics for various parameters</p>
+    </header>
+    <div class="dropdown-container">
+      <label for="parameterDropdown">Choose a parameter:</label>
+      <select id="parameterDropdown" onchange="updateChart()">
+        <option value="age">Age</option>
+        <option value="sex">Sex</option>
+        <option value="bmi">BMI</option>
+        <option value="diagnosis">Diagnosis</option>
+        <option value="allergies">Allergies</option>
+      </select>
+    </div>
+    <canvas id="myChart"></canvas>
+  </div>
+  <script src="dashboard.js"></script>
+</body>
+</html>
