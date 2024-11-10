@@ -2,7 +2,7 @@
 let chart;
 const loadChartData = async (parameter) => {
   try {
-    const response = await fetch("prescription.json");
+    const response = await fetch("Updated_Prescription_Data.json");
     const data = await response.json();
     
     const counts = data.reduce((acc, item) => {

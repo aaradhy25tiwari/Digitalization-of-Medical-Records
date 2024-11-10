@@ -1,7 +1,7 @@
 // Load JSON data
 async function loadData() {
-    const patientResponse = await fetch('prescription.json');
-    const doctorResponse = await fetch('medication.json');
+    const patientResponse = await fetch('Updated_Prescription_Data.json');
+    const doctorResponse = await fetch('Updated_Medication_Data.json');
     
     const patients = await patientResponse.json();
     const doctors = await doctorResponse.json();
