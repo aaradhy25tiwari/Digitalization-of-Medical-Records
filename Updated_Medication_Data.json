@@ -1,0 +1,3004 @@
+{
+    "Sheet1": [
+        {
+            "Id": "941fd2bf-ee56-4f97-8710-fa2e13f63be7",
+            "Prescription_id": "4d8e3073-3d78-436b-9fff-3267f8cae2a8",
+            "drug_description": "Lisinopril",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "54491432-f067-4ac3-bf9d-98be79e9c32e",
+            "Prescription_id": "b790a9df-fb8f-4dd3-94d9-7d841caec95e",
+            "drug_description": "Lisinopril",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "caec5141-451a-460c-81ce-2456e3fb6bbf",
+            "Prescription_id": "25bf309d-393b-4b24-b321-05f58dbb4c09",
+            "drug_description": "Prednisone",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "366de760-14cb-4e21-b571-8516abf10c2e",
+            "Prescription_id": "b923bc9e-0bef-49f1-a3a3-c9787c5b75f2",
+            "drug_description": "Simvastatin",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "6bc86cfb-e287-4953-b354-485b760b6b3d",
+            "Prescription_id": "1a1358b4-5580-49ed-aa24-ea5f47399a5c",
+            "drug_description": "Azithromycin",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "52e9ce85-8558-4ac2-a146-06a9d6330af0",
+            "Prescription_id": "7df9e64f-0f0a-4926-bcbc-2fb751bef20a",
+            "drug_description": "Lisinopril",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "6f35e4a9-5ac8-4810-a61c-a9d46247c763",
+            "Prescription_id": "dce44d57-5948-475f-99d0-a4e633981d16",
+            "drug_description": "Pantoprazole",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "67cb570e-4934-41fd-91ad-26e0ff1f3616",
+            "Prescription_id": "3a0ddfe7-34ce-4993-b7e1-2b1dcb5c8641",
+            "drug_description": "Metoprolol",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "a1205615-25b5-4b0a-b061-2b781fe8a46c",
+            "Prescription_id": "59b3bb4a-96da-4985-a211-4f5c471f4aa7",
+            "drug_description": "Prednisone",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "0f1de7c9-be94-40c7-94f3-d82094e2eec3",
+            "Prescription_id": "8e914797-439f-49ac-a4d0-68406edcddd6",
+            "drug_description": "Metformin",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "3c100c4b-4690-48bf-a28c-c349b41101aa",
+            "Prescription_id": "37d239cf-a295-4f79-a8be-29c3ab319654",
+            "drug_description": "Sertraline",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "417886ec-699c-4d56-a0c7-c2d2a7ad638c",
+            "Prescription_id": "fbaa711e-068e-4a86-a291-bf78bc3a121a",
+            "drug_description": "Metformin",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "ba7ff9c8-7a50-437d-a13d-fe214d23be94",
+            "Prescription_id": "f0b09781-08f6-4970-b1d8-d57e61af4278",
+            "drug_description": "Pantoprazole",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "38ac395a-53b9-43ed-bedb-c195f7df76f1",
+            "Prescription_id": "2d014fe1-f600-4af2-968d-56e8974b19f2",
+            "drug_description": "Clopidogrel",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "49871ad0-4e88-4f80-92d7-9bb5fbeb91f3",
+            "Prescription_id": "c771ffbf-4c5b-44cf-8625-457eb4846cd6",
+            "drug_description": "Ibuprofen",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "df6ac77f-2b89-4a81-8bcb-d7e537f1f43e",
+            "Prescription_id": "af5ab426-0587-4732-8002-e985a43dcac2",
+            "drug_description": "Hydrochlorothiazide",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "540e03f2-f084-4073-aafb-a1e03d76b2b8",
+            "Prescription_id": "bf7d7d67-fc12-4bef-8cbf-9eee072e4f4b",
+            "drug_description": "Furosemide",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "08b7d16d-1bd5-4ac2-a184-444ecffaede8",
+            "Prescription_id": "2cfd23a6-53ed-4546-8c1d-c1c91502627e",
+            "drug_description": "Losartan",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "e9de88bf-3447-413f-93f4-8238c8f039a3",
+            "Prescription_id": "2c545cd2-8122-4871-adbf-0a4cd9c4df37",
+            "drug_description": "Paracetamol",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "bd436cfc-78e5-4c3c-b057-630d0c597d38",
+            "Prescription_id": "2fbe8dd8-31fb-4ce2-895b-c8fb088e74c3",
+            "drug_description": "Metoprolol",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "342fd410-1fb3-406f-8d0d-d4d36503c3b5",
+            "Prescription_id": "647174e9-d001-4cfd-99a9-b675c5c8f1a7",
+            "drug_description": "Atorvastatin",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "48b7e8db-b66a-495d-95bf-161fbda46b73",
+            "Prescription_id": "b76430b6-adb7-4fbf-a686-7649b91669c3",
+            "drug_description": "Paracetamol",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "dee1adfe-23b5-40da-9605-4e380ba8c854",
+            "Prescription_id": "ef54888e-3fcb-4fcd-b2c7-436763757225",
+            "drug_description": "Losartan",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "4aeffd2e-b9a5-466f-8aa6-5613942a27f2",
+            "Prescription_id": "58a5a6c6-e0d0-4c0d-ac21-9c91ebf1741d",
+            "drug_description": "Clopidogrel",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "81456088-e566-4d9b-a35e-5b997c336af4",
+            "Prescription_id": "4db65319-6059-47e3-b6d7-f8ae7fc6ef05",
+            "drug_description": "Furosemide",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "d6075324-addb-44cf-bee8-27113091d229",
+            "Prescription_id": "d700e22e-4943-4358-befe-3b5aca3c4784",
+            "drug_description": "Paracetamol",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "ab2c299e-4a68-4516-a33d-cfdc7e039181",
+            "Prescription_id": "d52df9fa-ef29-42e7-acf0-ed3377e4a668",
+            "drug_description": "Cetirizine",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "4486c556-05a7-4613-86c6-1c35c3a99a5a",
+            "Prescription_id": "b8fb0f1b-196b-42b1-9d37-181a820a32da",
+            "drug_description": "Simvastatin",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "0aa1b9bc-0db8-4331-ba97-c05539ac1fad",
+            "Prescription_id": "81abe5c2-fd6a-4e70-a53c-d8b667a7237d",
+            "drug_description": "Cetirizine",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "a421117d-ee58-45aa-8e22-2ca4bae42ed4",
+            "Prescription_id": "b111cf92-fbdd-4524-af0b-86043853cc08",
+            "drug_description": "Ibuprofen",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "149016e6-0f6a-4ff5-9cf6-42a8263a8f7b",
+            "Prescription_id": "d71c6623-4ad8-4761-839e-02006a6d1a75",
+            "drug_description": "Atorvastatin",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "06499416-5ff8-4b9e-a05e-81683594f805",
+            "Prescription_id": "d1a5f1fa-668b-4023-9c8e-f3764875c4d3",
+            "drug_description": "Ibuprofen",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "646d9e67-4737-430a-85a4-2c37c59b3f9b",
+            "Prescription_id": "93e696e5-88d2-42e7-a4c3-43bab4ffbca3",
+            "drug_description": "Atorvastatin",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "d7daa2dd-6352-4aa9-90cb-91cf3417070b",
+            "Prescription_id": "676bb7db-8eac-4c60-8716-fd3e812a92a6",
+            "drug_description": "Furosemide",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "6174f37f-ffad-4842-9093-6a2f9ef48fec",
+            "Prescription_id": "f27de5fc-a4aa-4ed1-9bbc-153c0931830d",
+            "drug_description": "Lisinopril",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "b5554fc8-fc20-4ccd-b99f-f72e714b973f",
+            "Prescription_id": "01238cf2-3917-4556-bbbc-bf62bb6c14d1",
+            "drug_description": "Sertraline",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "f4ca035e-46a5-4fb7-9a7b-1c537de5657a",
+            "Prescription_id": "10771626-73d1-4db0-8edb-3fa513c62de0",
+            "drug_description": "Furosemide",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "5075e23a-ca54-47ad-8307-8aa4ae3c7630",
+            "Prescription_id": "d52d3bc2-df7d-4f78-9633-c9804f6bb6a1",
+            "drug_description": "Losartan",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "e256e085-744a-49b1-8f49-a14063951862",
+            "Prescription_id": "e048de7e-fde1-42b1-958c-cc9e4868a088",
+            "drug_description": "Omeprazole",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "1ba92649-255d-472e-b40f-c9e7b9a059cc",
+            "Prescription_id": "9f6d342c-11ff-4bd8-802d-308a83b7db67",
+            "drug_description": "Losartan",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "15ee5bf9-33f6-42c2-a78d-ae68d5209ea8",
+            "Prescription_id": "3be42d18-fd91-47b6-ba12-e53fd452c6f3",
+            "drug_description": "Prednisone",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "a0a5faca-5459-4173-983a-640d31266178",
+            "Prescription_id": "f6b7fdf3-bd5e-41f3-819b-84037c2a429a",
+            "drug_description": "Clopidogrel",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "c0ea69f1-9474-4d04-9625-3bf4dcd1e966",
+            "Prescription_id": "82a98921-4380-4c73-9009-8c73103133b5",
+            "drug_description": "Lisinopril",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "c96e0378-9a37-498e-b42f-962611153e6b",
+            "Prescription_id": "1e60afef-2c2a-4362-bf31-77154f3297c9",
+            "drug_description": "Aspirin",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "a5323734-a9e3-461d-955c-426acb6e2199",
+            "Prescription_id": "d50165a7-1b1e-4614-b46f-253a189de834",
+            "drug_description": "Metformin",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "269b8a8a-854a-4599-beff-4aa61acc1a87",
+            "Prescription_id": "768d3082-b3b0-4e82-9a7d-03d9fd32051b",
+            "drug_description": "Atorvastatin",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "d7a17b0c-585a-4e3d-bb67-e5c7e02dc77f",
+            "Prescription_id": "6aa046be-0983-4d20-beee-e081c404de5b",
+            "drug_description": "Sertraline",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "b10c7ea0-453c-443b-8a40-c987507e9d1b",
+            "Prescription_id": "a0d5bcc7-98f6-42ab-b79a-c3a2f7888a47",
+            "drug_description": "Paracetamol",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "c3a028d7-5562-4010-9dc5-0ad6a3ce9eb6",
+            "Prescription_id": "5d69dcb9-3a25-4ee4-95bb-11281c795c9f",
+            "drug_description": "Hydrochlorothiazide",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "6d95a35e-3371-4605-b0c6-d020b01b5a2a",
+            "Prescription_id": "f6b7fdf3-bd5e-41f3-819b-84037c2a429a",
+            "drug_description": "Clopidogrel",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "ab74b195-fc46-4816-bb19-33211bbbdc39",
+            "Prescription_id": "25bf309d-393b-4b24-b321-05f58dbb4c09",
+            "drug_description": "Levothyroxine",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "8bb78b68-bd04-4028-8e11-11c853dcf2a4",
+            "Prescription_id": "d6bdc3ff-0ca6-417c-b615-bfd8d0531166",
+            "drug_description": "Sertraline",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "eb8f0f01-5aae-4970-9525-540736304a2a",
+            "Prescription_id": "2bcf51aa-9a2a-4d3b-90ec-43959307ab87",
+            "drug_description": "Hydrochlorothiazide",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "8b60d870-3d0a-4148-9033-7f40a7efade4",
+            "Prescription_id": "8d178b21-5e37-4358-b548-797a50f74bcb",
+            "drug_description": "Atorvastatin",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "486e0efc-8ca1-4747-bdbb-3009788f30ed",
+            "Prescription_id": "a0d5bcc7-98f6-42ab-b79a-c3a2f7888a47",
+            "drug_description": "Omeprazole",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "513bd50b-3ec4-469f-b8e4-4007e8e83bc2",
+            "Prescription_id": "08a64f9d-1654-4fe3-801b-cb4d0b118369",
+            "drug_description": "Ibuprofen",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "68321580-3e44-4842-ae1b-7328728efbe3",
+            "Prescription_id": "9cd320b2-382c-4e15-9e16-b45aa945e56b",
+            "drug_description": "Omeprazole",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "f71b93be-d50b-489b-9d7b-92fc95a6bd20",
+            "Prescription_id": "ec92c62b-3e5e-4919-8b37-13d4de42770a",
+            "drug_description": "Prednisone",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "08573fb4-a974-4635-84d3-d52853d5d273",
+            "Prescription_id": "d24d4459-9f47-4988-bdb1-7ca6dd61995f",
+            "drug_description": "Clopidogrel",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "8dc15265-e6af-447f-8aac-ec26fef232fc",
+            "Prescription_id": "d6b88cb2-958c-437c-b048-1f6a4c2e5b80",
+            "drug_description": "Levothyroxine",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "bf04f618-62bc-4096-8eba-bba10ea755d1",
+            "Prescription_id": "e3c16415-efbb-49c7-b4b5-d9b47394f4f0",
+            "drug_description": "Levothyroxine",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "bbb48b03-d671-4636-9b4d-d1a65677d6b0",
+            "Prescription_id": "109923f4-c0fb-4234-8275-f68d3933b9cd",
+            "drug_description": "Cetirizine",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "4b449a8e-b73f-495a-a334-95b3567cff0e",
+            "Prescription_id": "21b3f32a-4e09-41a3-907b-40f033023340",
+            "drug_description": "Sertraline",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "4418dc99-0ce4-4afe-b8ab-7a516b50a8bb",
+            "Prescription_id": "ef54888e-3fcb-4fcd-b2c7-436763757225",
+            "drug_description": "Metoprolol",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "0d954f6d-5abf-4630-96dd-735f3cbd652b",
+            "Prescription_id": "d8613e59-eee2-4b73-9616-ff53c11a1349",
+            "drug_description": "Metoprolol",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "35d8f61c-fd3f-47f4-ac6b-d381d5d9b294",
+            "Prescription_id": "7c664a2b-321d-4f61-917c-6913a0cbda8a",
+            "drug_description": "Simvastatin",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "109c5b21-904d-41cc-8b2f-c87bff0168cf",
+            "Prescription_id": "ab34845f-394a-4302-b27a-647f2ac91312",
+            "drug_description": "Clopidogrel",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "6f38e91d-6a8e-4e06-9fef-9111904bca20",
+            "Prescription_id": "b2048759-0725-44b1-b30e-258d78dd5ee1",
+            "drug_description": "Clopidogrel",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "d43568c9-a579-4370-8484-b4aa236e92cc",
+            "Prescription_id": "647174e9-d001-4cfd-99a9-b675c5c8f1a7",
+            "drug_description": "Azithromycin",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "28da8873-a1ee-4b72-82e7-3bb87a20ecfb",
+            "Prescription_id": "3468c26e-0fce-4712-8976-f78315f9ed61",
+            "drug_description": "Furosemide",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "f531e0d3-fccd-476b-9340-f9a1e7d0a3b4",
+            "Prescription_id": "d8613e59-eee2-4b73-9616-ff53c11a1349",
+            "drug_description": "Metformin",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "01e803f1-634a-400e-960c-2ee1d482a58d",
+            "Prescription_id": "23409bc3-4d49-4abb-a4f5-a959946117ac",
+            "drug_description": "Paracetamol",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "60f85664-235f-4454-8868-dfde3024bc48",
+            "Prescription_id": "f5af8513-f1c6-4339-a168-f369b706dff7",
+            "drug_description": "Clopidogrel",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "7f9506ce-98dc-4a11-908e-fa67ec1a4f30",
+            "Prescription_id": "46158d6f-2f4c-4229-9376-3dd79e73b59f",
+            "drug_description": "Amoxicillin",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "3d95847f-e0c7-4c23-9072-0292bab431c6",
+            "Prescription_id": "b8fb0f1b-196b-42b1-9d37-181a820a32da",
+            "drug_description": "Losartan",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "a3d3b5c6-932e-4060-847f-a89d84c691ba",
+            "Prescription_id": "9db4adef-ba27-45b1-9f64-4784f82dfede",
+            "drug_description": "Pantoprazole",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "b0e6cbe2-5dad-4268-8c59-45f034c9eacf",
+            "Prescription_id": "c7aea45a-0f65-4267-bc20-315b420abe69",
+            "drug_description": "Prednisone",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "e59738bf-a1a3-4fd7-8a6c-16abdbcb7c31",
+            "Prescription_id": "f5af8513-f1c6-4339-a168-f369b706dff7",
+            "drug_description": "Atorvastatin",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "eb14e3ea-5abe-4060-9127-106733a518c2",
+            "Prescription_id": "3128f650-c0a5-418f-985a-46b62a751a88",
+            "drug_description": "Simvastatin",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "0c0ea0d3-c77b-4131-af22-a0a923d6f983",
+            "Prescription_id": "19d0d378-1fac-4119-a4aa-8702e5e060ed",
+            "drug_description": "Sertraline",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "d01b34f4-802c-464e-a839-32912d2a53ea",
+            "Prescription_id": "5c913238-e239-40b1-9826-3761b808e370",
+            "drug_description": "Sertraline",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "2aec8837-32f3-4d82-903d-2862062a4bef",
+            "Prescription_id": "4bbaf5c5-6c8f-4309-b24b-a4ead5290416",
+            "drug_description": "Ibuprofen",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "66d7c3a8-ebea-46d4-9000-74aa4183fc2b",
+            "Prescription_id": "46158d6f-2f4c-4229-9376-3dd79e73b59f",
+            "drug_description": "Furosemide",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "8b4a1a32-3184-4742-92d6-5f9c3b619755",
+            "Prescription_id": "2e3c1954-3d52-4d04-bbf0-4b5b45aba081",
+            "drug_description": "Azithromycin",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "0af7686c-6ade-48db-9767-3f767bc851ad",
+            "Prescription_id": "290903c8-a8ae-4464-b4cd-70975ba0b809",
+            "drug_description": "Azithromycin",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "521ce7ac-8e92-4399-a8b5-3d5c55f14bf7",
+            "Prescription_id": "84987b66-69e0-4f4d-b69f-f4aaa1ca90af",
+            "drug_description": "Furosemide",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "07977167-e830-4aba-b2a2-5265cfc90482",
+            "Prescription_id": "47774217-7579-4a75-be60-0017e463c5fd",
+            "drug_description": "Losartan",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "d025f686-5224-4ef9-b2b1-1be4cd55cd55",
+            "Prescription_id": "6b3df2df-2030-4f9d-8828-3bd62e4b83a8",
+            "drug_description": "Pantoprazole",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "10c136d9-1f85-47c0-bfe2-07270ce061de",
+            "Prescription_id": "676bb7db-8eac-4c60-8716-fd3e812a92a6",
+            "drug_description": "Levothyroxine",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "6ff26b48-3d26-4e8d-b5d4-6acc1b14c0cb",
+            "Prescription_id": "6ee88a65-5f80-4de6-ba4a-8fa50875925e",
+            "drug_description": "Azithromycin",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "fc3866aa-58da-49fa-959e-45e52da132a7",
+            "Prescription_id": "16977f22-61d5-4bab-90f1-f1f4e5a76425",
+            "drug_description": "Omeprazole",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "49b0ede7-07c3-4b2a-9af4-beb515bb93ad",
+            "Prescription_id": "d52d3bc2-df7d-4f78-9633-c9804f6bb6a1",
+            "drug_description": "Cetirizine",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "27a9da2a-3cb9-4cfe-9d12-31a538cc7bd9",
+            "Prescription_id": "07cd7b99-8745-4e11-861a-2d112775c346",
+            "drug_description": "Furosemide",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "e2a7d87f-5a8e-4ba1-9c0c-5b19d13afcb3",
+            "Prescription_id": "68d9dc39-3cf5-4a5e-8e9d-2bdbb087486c",
+            "drug_description": "Levothyroxine",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "d4cae59a-7ac0-4eaa-adb5-39db06ed5e5d",
+            "Prescription_id": "abe73409-6424-44ee-bbc0-39c9c3826fce",
+            "drug_description": "Azithromycin",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "b23bb695-29c4-43cf-9d7e-4cf059173ca3",
+            "Prescription_id": "d864f09f-1d04-4566-8f9c-57bdc7986f3d",
+            "drug_description": "Ibuprofen",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "da16319b-4e27-4776-b61b-b13a881347d7",
+            "Prescription_id": "8d4d2d02-f861-4e71-8286-db71229bbdfb",
+            "drug_description": "Paracetamol",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "b0b9e08c-587c-4b0b-bbf6-f0cb6127700b",
+            "Prescription_id": "20db5ec4-f454-4e43-b067-311a6d633b3a",
+            "drug_description": "Metformin",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "704edcef-cff5-4729-b4a7-8f6815c0d99f",
+            "Prescription_id": "ef54888e-3fcb-4fcd-b2c7-436763757225",
+            "drug_description": "Azithromycin",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "b8250d02-dd48-4e12-8e1d-ba1206c4979f",
+            "Prescription_id": "fbda9b4f-94cf-4f5e-8e2e-369d6e55db36",
+            "drug_description": "Lisinopril",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "4523c893-fb85-499e-b910-84bf93fe95a8",
+            "Prescription_id": "9176acd8-382f-49b5-9cd8-9e96c3836493",
+            "drug_description": "Pantoprazole",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "c91e5cba-7b0d-4bf9-9526-80200bc73872",
+            "Prescription_id": "a28c5f80-1eae-4f56-b32f-61abd79a0055",
+            "drug_description": "Prednisone",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "1b9e63a3-b207-4762-817b-4659fc114f1b",
+            "Prescription_id": "05e29eef-2993-440e-9d89-e2eed12c3b64",
+            "drug_description": "Furosemide",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "39dfa443-1ceb-47aa-b27d-42d44df22d8b",
+            "Prescription_id": "0338fda3-b4b6-4f2f-ae05-00712260d80b",
+            "drug_description": "Clopidogrel",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "8e4edf48-a9b6-4913-b699-13547bebffa6",
+            "Prescription_id": "145916f3-a18a-496d-bc0b-5a26fbfe99eb",
+            "drug_description": "Lisinopril",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "452cdf8f-1a3c-4a08-8be5-5d1ca9639590",
+            "Prescription_id": "81abe5c2-fd6a-4e70-a53c-d8b667a7237d",
+            "drug_description": "Pantoprazole",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "01117816-be49-46ca-8c42-3d13015a7a7a",
+            "Prescription_id": "8373f7ea-164c-4052-b47e-9ccf7fe7b57c",
+            "drug_description": "Levothyroxine",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "7cb7bff7-7eb7-4acd-bcc4-c42a4e5d2b92",
+            "Prescription_id": "0338fda3-b4b6-4f2f-ae05-00712260d80b",
+            "drug_description": "Metformin",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "0bf915cf-aa7b-4dd9-94f8-f5d9efc4efda",
+            "Prescription_id": "2bcf51aa-9a2a-4d3b-90ec-43959307ab87",
+            "drug_description": "Aspirin",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "7e27dca8-daba-476b-89a6-6d77d577fa38",
+            "Prescription_id": "48ea259d-87d9-4cb0-8c7a-79a0fd739b21",
+            "drug_description": "Atorvastatin",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "8d0a5676-1c9e-4594-a743-6fe120969214",
+            "Prescription_id": "d5f55bb7-1058-4ad3-b4b1-4a35af7b7d04",
+            "drug_description": "Clopidogrel",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "41fdd263-de66-436b-a64c-05c48a86938e",
+            "Prescription_id": "5f3758c5-d0ab-4068-802f-5a72654cfebb",
+            "drug_description": "Prednisone",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "ce19a2f9-b2cb-4653-95af-dae0007a81a2",
+            "Prescription_id": "6a6a1535-a382-4856-9457-04abcb08868f",
+            "drug_description": "Ibuprofen",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "b0018569-81fa-43c8-a593-8fa03c937cba",
+            "Prescription_id": "d52d3bc2-df7d-4f78-9633-c9804f6bb6a1",
+            "drug_description": "Levothyroxine",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "a1b8a1dd-cd0a-415b-96f0-d8c8399a7775",
+            "Prescription_id": "d824d86f-3518-43d6-8533-63ae7184ba5a",
+            "drug_description": "Cetirizine",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "64663ca9-8858-492a-bb5e-47cdd6ccfd62",
+            "Prescription_id": "8e3dcfb7-e4fd-4207-839e-4a045b480225",
+            "drug_description": "Cetirizine",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "adcae324-7198-4703-a5e4-781fea90562a",
+            "Prescription_id": "41c2def2-b19f-4490-80f1-2270e0cb0e27",
+            "drug_description": "Aspirin",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "ee1e2c1b-a16a-4e6b-a9f7-ea1aaa31c4b0",
+            "Prescription_id": "4989a4e9-d769-4d93-a603-922c621e54af",
+            "drug_description": "Levothyroxine",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "81e4c096-3fe0-40fe-b420-ce046345e39a",
+            "Prescription_id": "2513627e-899e-4c10-84e8-de4fd44cf7ea",
+            "drug_description": "Lisinopril",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "9b9a5a6c-c92b-48f2-985b-d65be4ca385d",
+            "Prescription_id": "c279fc88-098a-4d97-9496-9796d8001550",
+            "drug_description": "Lisinopril",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "d2d78a78-4b97-472d-ab21-a3e57c0442d3",
+            "Prescription_id": "ab4dc444-cf5c-4336-94b8-9786663e5f54",
+            "drug_description": "Amoxicillin",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "92ef266b-f43d-4a22-9605-436b8aa7a774",
+            "Prescription_id": "bdfa26b8-731a-4783-b5a9-2bcc966931a2",
+            "drug_description": "Aspirin",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "a56bfddf-0eb5-4301-a738-ea11a406c9bc",
+            "Prescription_id": "a988987c-245c-4987-a3a9-79b2d0aedefa",
+            "drug_description": "Levothyroxine",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "321d64ae-90d7-4495-9b09-20fdb77ce6be",
+            "Prescription_id": "079629ab-e1f5-4011-80fc-c16282c12173",
+            "drug_description": "Sertraline",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "7a28e132-5f2b-4034-af70-e16a5f5a00e0",
+            "Prescription_id": "b04f919f-90e3-4fd8-ac3f-3d7f35dbe8ec",
+            "drug_description": "Metoprolol",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "777d9ed4-ef4f-4eee-81ba-9a3a96e14a54",
+            "Prescription_id": "710c0e8e-8441-441c-9006-3e0c1c2b3ab2",
+            "drug_description": "Simvastatin",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "bc939dd6-505e-4abf-a75a-f782a3c4bd0a",
+            "Prescription_id": "cbe37326-2067-4f5a-a233-6b1e9e664f49",
+            "drug_description": "Pantoprazole",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "2f3021f6-1797-438e-b296-96134e9a32ce",
+            "Prescription_id": "5d106f8a-fb8b-48b5-8f03-80eaa986ed6b",
+            "drug_description": "Losartan",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "4600f62a-5036-4c5e-b853-b82462022700",
+            "Prescription_id": "16977f22-61d5-4bab-90f1-f1f4e5a76425",
+            "drug_description": "Ibuprofen",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "4eb901fa-a79e-4778-9a2e-231b42acb0be",
+            "Prescription_id": "efcc3ea0-c009-445e-9f71-e690373fe7e3",
+            "drug_description": "Azithromycin",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "10c5c3d6-148c-4cef-a9ab-7df034c1639e",
+            "Prescription_id": "3128f650-c0a5-418f-985a-46b62a751a88",
+            "drug_description": "Lisinopril",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "b0409388-2e91-4e02-a2f1-2ca2fbcd1be5",
+            "Prescription_id": "3fe38d2c-2f27-47b4-9e21-80db682bbfad",
+            "drug_description": "Clopidogrel",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "5b8dc624-64eb-492a-89ec-435e92c3334f",
+            "Prescription_id": "620cd84e-7439-42f1-b978-39ca83d1390a",
+            "drug_description": "Prednisone",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "39ab00f4-0b4c-4b24-915b-ef75b5cd63d3",
+            "Prescription_id": "2c801c0b-a28d-4a5e-b06c-a8e343b3f82c",
+            "drug_description": "Azithromycin",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "fac06b4c-1855-41fe-a7fd-65018386e516",
+            "Prescription_id": "88896dc2-ca61-4a83-adac-bcb0be2a15a9",
+            "drug_description": "Lisinopril",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "7643f1d0-3370-4f6b-9219-e2e3edce2562",
+            "Prescription_id": "4706440d-2efc-42fa-924b-60f4a952ab94",
+            "drug_description": "Prednisone",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "4ab02d21-c736-47c8-a650-287f92220f8a",
+            "Prescription_id": "05a215aa-86f9-4b4e-ada5-22a580523bd6",
+            "drug_description": "Ibuprofen",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "f1844bc4-d800-40ff-af14-3c9f820a4e3a",
+            "Prescription_id": "efb9ad61-3f2b-4af4-8aa5-084eb8e70289",
+            "drug_description": "Ibuprofen",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "0c3645b1-c938-4fcd-89ec-e33b8c89ab18",
+            "Prescription_id": "a5efd1ff-e830-4245-9713-37506413e936",
+            "drug_description": "Hydrochlorothiazide",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "b9df4926-1ad4-47c2-b5d2-a27feb4bfafe",
+            "Prescription_id": "7450e1dc-cb72-42cb-841d-95d4eb305851",
+            "drug_description": "Hydrochlorothiazide",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "4ca4d8ef-630b-4467-b497-42ac91da7d72",
+            "Prescription_id": "1a1358b4-5580-49ed-aa24-ea5f47399a5c",
+            "drug_description": "Amoxicillin",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "9035287c-1b0e-4d0b-9b6e-c7a682c4eb86",
+            "Prescription_id": "c5ac9a38-736e-468d-bf21-a760a946dac4",
+            "drug_description": "Metformin",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "ac931aae-233d-4d73-af3a-fc541a814175",
+            "Prescription_id": "41c2def2-b19f-4490-80f1-2270e0cb0e27",
+            "drug_description": "Aspirin",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "a963e781-ae45-4a96-b7ee-3abae85f42d3",
+            "Prescription_id": "6b3040e6-56ee-4ec4-9bae-d66ea2721dd2",
+            "drug_description": "Ibuprofen",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "46a4d89f-0abf-4aa1-8934-e05dffbd970a",
+            "Prescription_id": "d7e922f7-224d-4d37-9b59-467cb7b44ea1",
+            "drug_description": "Azithromycin",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "e9a7d107-16d7-4100-956b-af2c4914155b",
+            "Prescription_id": "1a1358b4-5580-49ed-aa24-ea5f47399a5c",
+            "drug_description": "Pantoprazole",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "b65b5ccc-9b41-4861-986f-602d497090ce",
+            "Prescription_id": "5a80f9f9-0eb5-4d38-b137-de33fa1283ec",
+            "drug_description": "Atorvastatin",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "d76ceb37-3eb9-4f02-b280-949ff34402bb",
+            "Prescription_id": "f21b5b5a-7620-479a-8f9e-52c4de948063",
+            "drug_description": "Amoxicillin",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "ffd22775-5b33-4388-a8db-f2c49122e83c",
+            "Prescription_id": "e2d98de4-2c32-46df-8ab9-9b1313b3113d",
+            "drug_description": "Hydrochlorothiazide",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "a0a047c8-6285-4295-9c3c-a78921322cad",
+            "Prescription_id": "8fa7126c-22e1-4f6a-aa9c-39e6ab1e2f18",
+            "drug_description": "Pantoprazole",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "53a87e15-eab5-433b-ba7d-effca57a6a03",
+            "Prescription_id": "2aa73e47-95c9-4423-bfcd-c49bc5ba1998",
+            "drug_description": "Prednisone",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "9e95f39f-6b5b-44f6-99da-19e44c6c6d81",
+            "Prescription_id": "0ab95f53-2c9c-4308-b6ee-b54a1a9da294",
+            "drug_description": "Pantoprazole",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "65b4c424-99d7-4dd8-9e0c-c1141093dc69",
+            "Prescription_id": "f45f11dd-64cd-4c42-9e6f-6c09f80831a8",
+            "drug_description": "Clopidogrel",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "80c7f58a-a6c0-4645-b621-fd8817d727c9",
+            "Prescription_id": "82a98921-4380-4c73-9009-8c73103133b5",
+            "drug_description": "Cetirizine",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "bc8732ec-4384-400e-b25a-1b1640042803",
+            "Prescription_id": "c2e10006-de97-4be7-8975-54d2f1422cb3",
+            "drug_description": "Furosemide",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "038b150f-3a7b-4344-8eff-7b025b9980f3",
+            "Prescription_id": "3468c26e-0fce-4712-8976-f78315f9ed61",
+            "drug_description": "Atorvastatin",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "eabb8d76-a30b-49dd-b99d-185423a9d6a1",
+            "Prescription_id": "943c6f7a-64ea-4461-b0bf-7bf832b8d0ac",
+            "drug_description": "Pantoprazole",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "ac745999-ae31-4f34-9327-a4fca811af13",
+            "Prescription_id": "8373f7ea-164c-4052-b47e-9ccf7fe7b57c",
+            "drug_description": "Clopidogrel",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "9c506baf-2436-44e2-9294-f8ee1d85743e",
+            "Prescription_id": "3e394cee-317c-47e4-b89f-a85f2d8704bd",
+            "drug_description": "Metoprolol",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "46a4aa81-7f8b-4527-a652-6dad069a3787",
+            "Prescription_id": "418946e2-4a18-40b6-8958-00e384a8a4e4",
+            "drug_description": "Metoprolol",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "b9115530-6074-415c-b113-116023a4603d",
+            "Prescription_id": "2fbe8dd8-31fb-4ce2-895b-c8fb088e74c3",
+            "drug_description": "Simvastatin",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "9e1eda2f-66ba-45dd-8006-f01f8c733994",
+            "Prescription_id": "3e394cee-317c-47e4-b89f-a85f2d8704bd",
+            "drug_description": "Atorvastatin",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "08c488c8-ba58-4da5-b30b-2a592fd8abf9",
+            "Prescription_id": "48ea259d-87d9-4cb0-8c7a-79a0fd739b21",
+            "drug_description": "Sertraline",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "f9a2a39a-dbe1-4fd0-b187-02f09fd76e9e",
+            "Prescription_id": "7ffc0b58-e164-468b-b2c5-d73ce374a74e",
+            "drug_description": "Clopidogrel",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "04599373-b213-4751-8b54-bb258858ab1a",
+            "Prescription_id": "d71c6623-4ad8-4761-839e-02006a6d1a75",
+            "drug_description": "Sertraline",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "d888e0da-a080-44f6-afe0-c2bf979648b9",
+            "Prescription_id": "253d4448-411c-49c3-b90d-65b5793b4eaf",
+            "drug_description": "Atorvastatin",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "7c7289b7-f275-404a-86c3-8d5e50a9c669",
+            "Prescription_id": "932def5f-4de9-4842-8305-d9016a8f2431",
+            "drug_description": "Cetirizine",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "0c923f1d-a703-4a62-a2dd-42dacd15ed15",
+            "Prescription_id": "d6b88cb2-958c-437c-b048-1f6a4c2e5b80",
+            "drug_description": "Omeprazole",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "91de13e2-a57e-479b-b72f-43c3862fabfd",
+            "Prescription_id": "0a996c02-2a44-490b-aa4c-4532c4d40bca",
+            "drug_description": "Clopidogrel",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "9f4f89d9-8811-4fc2-aba8-7bc70b94811a",
+            "Prescription_id": "9acaebb1-b496-47c6-8d13-1357388b8f6b",
+            "drug_description": "Losartan",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "96e5c843-240f-4798-831d-e7b60e778deb",
+            "Prescription_id": "f632fe55-6b46-4f08-94ea-ca520cc92974",
+            "drug_description": "Sertraline",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "6ecc8fa9-a969-4b10-a5ca-fb75f144f0ff",
+            "Prescription_id": "a2c4b9af-befb-4f4b-8b39-321b9cada6db",
+            "drug_description": "Metformin",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "115cccd3-af27-4d9a-a7b4-18d9462410c5",
+            "Prescription_id": "6d32c8ad-cf08-42a0-82e1-7325156ae590",
+            "drug_description": "Clopidogrel",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "964437c4-f4e3-42db-a7ca-e561a6794705",
+            "Prescription_id": "8237716c-bb3b-4827-a093-9580a8bdc944",
+            "drug_description": "Losartan",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "0fc46a3f-ff62-483a-938b-99b78335bb43",
+            "Prescription_id": "fb4f5da9-d837-42e5-b468-758a5b59cda1",
+            "drug_description": "Amoxicillin",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "513a8ef5-42d5-4acd-9ca2-b20cf3d4800a",
+            "Prescription_id": "4551f044-d0b3-41dd-9355-4db26ba54804",
+            "drug_description": "Clopidogrel",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "91c9a370-6121-4f6a-ad8c-96f20da620b8",
+            "Prescription_id": "d50165a7-1b1e-4614-b46f-253a189de834",
+            "drug_description": "Aspirin",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "cb4c41f7-43bf-4e61-8bed-21aa25127427",
+            "Prescription_id": "ea26f805-41d3-4627-a093-e9c9f722be9d",
+            "drug_description": "Amoxicillin",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "d5cf8fbf-f8e9-4f73-9760-6abbcb4764b0",
+            "Prescription_id": "c279fc88-098a-4d97-9496-9796d8001550",
+            "drug_description": "Azithromycin",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "8b527346-4df1-4091-a490-f165a957cd3f",
+            "Prescription_id": "23409bc3-4d49-4abb-a4f5-a959946117ac",
+            "drug_description": "Prednisone",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "758455ef-5263-4547-a2f7-750e130cfa77",
+            "Prescription_id": "f29ce049-bfb9-4903-90d9-9a9a5a75a148",
+            "drug_description": "Azithromycin",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "f24f1247-804b-40c7-8073-aa8429d083a2",
+            "Prescription_id": "c17cd4c9-192d-47f3-8670-5110f537190c",
+            "drug_description": "Azithromycin",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "e28b7405-e8e9-49a7-9c53-d40c64e29c20",
+            "Prescription_id": "1f77a177-2c93-45a5-9360-7fde4eee9f5e",
+            "drug_description": "Paracetamol",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "3239e31b-7d41-4913-89b5-a7b85bbf06ac",
+            "Prescription_id": "2aa73e47-95c9-4423-bfcd-c49bc5ba1998",
+            "drug_description": "Hydrochlorothiazide",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "519e275f-cf26-4e19-bc6f-2873137dd088",
+            "Prescription_id": "7aeae756-2e12-4e7c-839e-e02d27eef6be",
+            "drug_description": "Metformin",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "ae93ceda-d113-4db5-b8e3-286a50a761bc",
+            "Prescription_id": "cffd79bb-1f96-4b6d-a5ce-a21721388756",
+            "drug_description": "Aspirin",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "efe3fdb3-829d-412a-9c84-7876e49c69af",
+            "Prescription_id": "d52d3bc2-df7d-4f78-9633-c9804f6bb6a1",
+            "drug_description": "Atorvastatin",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "41f81e8c-4414-41aa-b673-441864f82987",
+            "Prescription_id": "3ddf759b-8fdb-46c7-ac61-90292cc3a896",
+            "drug_description": "Paracetamol",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "1d6e0f53-e239-4a3e-b6db-8a7487374d77",
+            "Prescription_id": "5d106f8a-fb8b-48b5-8f03-80eaa986ed6b",
+            "drug_description": "Furosemide",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "787706f9-5a50-4f91-a77c-7d9988b3bd7b",
+            "Prescription_id": "a0d16380-05ca-4631-8f7c-3906b3184ec5",
+            "drug_description": "Clopidogrel",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "3ffa7c99-3ac5-4fd3-b20d-7494eb748245",
+            "Prescription_id": "2a5134da-b35b-4e8c-b188-f431d5f1253b",
+            "drug_description": "Simvastatin",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "a0bdb38e-dc59-4790-8239-972802c319be",
+            "Prescription_id": "25ee31fc-63b9-40c4-b02f-59873ca3bc03",
+            "drug_description": "Metformin",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "61bdf950-8f18-4399-a35e-89af359d6039",
+            "Prescription_id": "edd6438e-baa1-46e8-89b7-8a085504914d",
+            "drug_description": "Losartan",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "7af8d6f5-6319-47f7-b9ed-36d30073d57b",
+            "Prescription_id": "4ce3594e-345a-4412-b2bf-f528b07b93f3",
+            "drug_description": "Amoxicillin",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "b0878878-569f-4586-88da-ebf56747124d",
+            "Prescription_id": "f164d125-58af-401f-b23e-c7d29d1777c0",
+            "drug_description": "Aspirin",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "f1a1dfd5-5bbd-4366-8d61-9208ddd20687",
+            "Prescription_id": "7fce42b6-d034-45d7-95e2-5f67fee69ea6",
+            "drug_description": "Metformin",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "9e6801b7-c146-489a-8504-2fc63281e2aa",
+            "Prescription_id": "c29511e5-5d50-4b38-9fb7-f16fc4df14fc",
+            "drug_description": "Omeprazole",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "a8606008-adec-450f-ac15-81f02b394552",
+            "Prescription_id": "b8fb0f1b-196b-42b1-9d37-181a820a32da",
+            "drug_description": "Aspirin",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "5871b08d-6eb2-4048-b67d-42dc9102628d",
+            "Prescription_id": "c65fd4cd-fef4-4e94-882c-8fb56aca81f4",
+            "drug_description": "Cetirizine",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "46e43077-d5a4-4a17-b7f5-7973a2d3f9cc",
+            "Prescription_id": "19d0d378-1fac-4119-a4aa-8702e5e060ed",
+            "drug_description": "Pantoprazole",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "add98171-d444-46fd-9469-6c6e4709a1e0",
+            "Prescription_id": "5407d62f-251a-4155-88b5-8f8ac431b09b",
+            "drug_description": "Metoprolol",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "e8800ee0-a72a-4e07-b220-a431e4b47df0",
+            "Prescription_id": "5d106f8a-fb8b-48b5-8f03-80eaa986ed6b",
+            "drug_description": "Metformin",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "a554008a-c836-435e-b484-9d3b3e51ef39",
+            "Prescription_id": "2a47f520-20fb-4388-a814-3bf2c5edec62",
+            "drug_description": "Sertraline",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "486b7087-425d-4214-89ba-4086c508887a",
+            "Prescription_id": "7db67e43-6741-4dc2-9076-878a677702aa",
+            "drug_description": "Pantoprazole",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "e5689714-330a-4bf9-9103-dfa452b4f0d1",
+            "Prescription_id": "2d89d43f-e234-4aaa-b163-932c540d6410",
+            "drug_description": "Losartan",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "6a4e6b5d-8285-423e-9a1c-5e5e8e726d3e",
+            "Prescription_id": "93538498-ab11-4fac-9630-8a225d5dedba",
+            "drug_description": "Omeprazole",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "558f3077-d41d-48a7-8191-8265b0458227",
+            "Prescription_id": "6aa34a2a-c8c5-482d-8700-2379e3923239",
+            "drug_description": "Simvastatin",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "1f8bfe0c-3fd9-4093-b409-b67a643d8e29",
+            "Prescription_id": "37d239cf-a295-4f79-a8be-29c3ab319654",
+            "drug_description": "Pantoprazole",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "c778f243-6923-4b2c-b948-79a53b9bae40",
+            "Prescription_id": "2a5bf8bb-eb76-49fc-bb68-f331e7ad19cd",
+            "drug_description": "Levothyroxine",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "61bffcc8-cf88-43a5-9c6d-96f16c09bc46",
+            "Prescription_id": "6b3040e6-56ee-4ec4-9bae-d66ea2721dd2",
+            "drug_description": "Pantoprazole",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "cce5adb5-9f10-440a-ab0b-479bc4f11e35",
+            "Prescription_id": "2a6e9572-d58e-4738-9f6f-077b1bc5d1e9",
+            "drug_description": "Cetirizine",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "9dfab9da-6443-494e-952c-a2a204cffeb3",
+            "Prescription_id": "e1bc3f89-bf2b-40ba-9db1-42cc72dba088",
+            "drug_description": "Losartan",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "d3900184-24f8-4479-b212-3fca5f8e80a0",
+            "Prescription_id": "cffd79bb-1f96-4b6d-a5ce-a21721388756",
+            "drug_description": "Sertraline",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "cf10ea24-70bc-485b-99db-92aa1ec41079",
+            "Prescription_id": "1bc2423e-ee2f-4a34-8350-19a12d58bf6b",
+            "drug_description": "Simvastatin",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "584c1b08-df2a-4173-9a77-eb02147bffba",
+            "Prescription_id": "c2e10006-de97-4be7-8975-54d2f1422cb3",
+            "drug_description": "Levothyroxine",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "9996ce71-d7c0-4362-bae5-6457f5695f9a",
+            "Prescription_id": "0379aa45-82fe-4560-91a2-ab62d492878d",
+            "drug_description": "Atorvastatin",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "1a37ee76-2246-427d-90a8-e2f6daf0ae03",
+            "Prescription_id": "a59256c1-3c2d-47bc-838d-2797aff72a03",
+            "drug_description": "Atorvastatin",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "c40058e4-bf42-4afd-859f-07e1dc492177",
+            "Prescription_id": "9bcb269d-3101-4c4b-95e8-3b92172f827b",
+            "drug_description": "Levothyroxine",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "7a279a18-83c6-4b07-b5b1-3e49b7730c8c",
+            "Prescription_id": "166d7407-bb92-42d4-b9f8-51879c2eaa17",
+            "drug_description": "Pantoprazole",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "d2aa681d-4232-46f7-b375-baf8c1e20dec",
+            "Prescription_id": "60583707-6638-4736-a8bd-d54f5b828c16",
+            "drug_description": "Aspirin",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "6ab55921-2448-4df0-9989-9f553470c7ea",
+            "Prescription_id": "88795f6f-31c2-4d61-8ad2-50148a256689",
+            "drug_description": "Atorvastatin",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "00653ca6-d33e-489c-bf0f-66adcc7007b0",
+            "Prescription_id": "8797ffac-ce7e-4063-b21b-c98ee615ccc8",
+            "drug_description": "Ibuprofen",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "def00289-f8a0-445e-b651-f54366c15fdf",
+            "Prescription_id": "8797ffac-ce7e-4063-b21b-c98ee615ccc8",
+            "drug_description": "Hydrochlorothiazide",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "edd0d488-6c46-4ee5-9bcf-8cf4ace8eb1c",
+            "Prescription_id": "2d89d43f-e234-4aaa-b163-932c540d6410",
+            "drug_description": "Atorvastatin",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "45deb07c-a70d-4d9a-9a82-eb8d2fb2872e",
+            "Prescription_id": "bfb3f29b-11df-44d7-9d1d-c62b9c9f684a",
+            "drug_description": "Sertraline",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "243b71f1-9625-4da7-80f9-81614b21b553",
+            "Prescription_id": "4551f044-d0b3-41dd-9355-4db26ba54804",
+            "drug_description": "Atorvastatin",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "a7ff42be-8f42-4262-a061-e967ee5695e6",
+            "Prescription_id": "c65fd4cd-fef4-4e94-882c-8fb56aca81f4",
+            "drug_description": "Cetirizine",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "044d2087-868c-4d00-83a7-720e76b3594e",
+            "Prescription_id": "079629ab-e1f5-4011-80fc-c16282c12173",
+            "drug_description": "Cetirizine",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "e7309901-8540-463c-9656-8ab283a9cf73",
+            "Prescription_id": "e29ed48f-9c1c-4b58-ab94-31adc2c8f569",
+            "drug_description": "Paracetamol",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "a90bce3b-fd61-4558-beb3-8b5c0e05901e",
+            "Prescription_id": "b923bc9e-0bef-49f1-a3a3-c9787c5b75f2",
+            "drug_description": "Levothyroxine",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "d0106e3a-ff6c-4118-bfba-98b5e9983807",
+            "Prescription_id": "760da29d-f7d3-4ec6-9175-94ce590b32fb",
+            "drug_description": "Clopidogrel",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "5e353cea-4c56-4376-ac8b-4789b72669d2",
+            "Prescription_id": "7df9e64f-0f0a-4926-bcbc-2fb751bef20a",
+            "drug_description": "Losartan",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "01c21c73-3d02-45bf-ad77-3d329a202da8",
+            "Prescription_id": "16a8f920-830b-4e8e-8778-3bc6453cf1a5",
+            "drug_description": "Lisinopril",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "d6a1253c-7a54-45ba-b382-5f6a96f6a119",
+            "Prescription_id": "cbe37326-2067-4f5a-a233-6b1e9e664f49",
+            "drug_description": "Ibuprofen",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "0d483107-ea5c-41e4-85b9-1c9f91f175cc",
+            "Prescription_id": "93538498-ab11-4fac-9630-8a225d5dedba",
+            "drug_description": "Clopidogrel",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "754be282-de5e-4369-afbb-114d90fb6056",
+            "Prescription_id": "aee038f1-b7b6-42e7-bf0a-9bac82a61da6",
+            "drug_description": "Pantoprazole",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "7303ba9c-c9fa-4470-911c-a6a5b9338d02",
+            "Prescription_id": "ea26f805-41d3-4627-a093-e9c9f722be9d",
+            "drug_description": "Sertraline",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "05f2d1f0-a4b0-4b61-8804-9c11870f3c28",
+            "Prescription_id": "bd6c9257-72ba-4eeb-912d-413b278e4c6d",
+            "drug_description": "Cetirizine",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "4cd2a810-40d4-419d-b892-c86c9bb077f7",
+            "Prescription_id": "2ed1cc59-6f23-477f-b27f-dc4370c9ad4c",
+            "drug_description": "Lisinopril",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "cf5eca45-1532-4be1-a011-37709ccb6158",
+            "Prescription_id": "0a33d014-0e7e-48b9-93c0-082c48fdba03",
+            "drug_description": "Lisinopril",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "9b1c3112-1137-45ec-99cd-4d8e99e1b962",
+            "Prescription_id": "073c5aa0-5edf-4bbd-a144-0a25ed8b486e",
+            "drug_description": "Lisinopril",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "2492f800-afa5-4cb1-a3fd-460147681f50",
+            "Prescription_id": "4a4e2a79-f16c-4d1a-bddf-ef0be045d96f",
+            "drug_description": "Simvastatin",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "e422ac34-3faf-45d6-9d55-7762c34a3529",
+            "Prescription_id": "f21c53e2-2e18-40bb-92e2-062e504bbb38",
+            "drug_description": "Prednisone",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "07db9b7f-439c-41cd-9521-1e7c63b7771e",
+            "Prescription_id": "844829b0-e7e4-4627-9545-42493abec8d0",
+            "drug_description": "Levothyroxine",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "3271bd63-2bda-41d3-9fa6-ab34fb49226b",
+            "Prescription_id": "a92ab0a6-8bee-4edb-80df-f688d3566f48",
+            "drug_description": "Cetirizine",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "815d1636-0afb-454d-8e4c-043320af27a1",
+            "Prescription_id": "22274b91-c901-453f-bad6-7a1d63509e98",
+            "drug_description": "Furosemide",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "0cde52ee-c35d-40ce-8178-827de0b4c18a",
+            "Prescription_id": "d1187fd0-fa08-46ae-a649-1e04e391dc7f",
+            "drug_description": "Metformin",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "c997706a-228d-46b4-9999-c15bfabd0ff6",
+            "Prescription_id": "5407d62f-251a-4155-88b5-8f8ac431b09b",
+            "drug_description": "Ibuprofen",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "969e1745-e5f3-4843-b672-e2ea9c4567a2",
+            "Prescription_id": "9ccc1b90-fd61-428b-9b4e-1605e1f9e30c",
+            "drug_description": "Pantoprazole",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "0c9d757a-8ed9-43ca-b8dc-1ee295976d96",
+            "Prescription_id": "ab4dc444-cf5c-4336-94b8-9786663e5f54",
+            "drug_description": "Lisinopril",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "318ca785-4a95-4e7d-87bc-6d13a9197e69",
+            "Prescription_id": "bb0d18a8-bdfd-4030-a001-e93cbdbea255",
+            "drug_description": "Hydrochlorothiazide",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "26200d81-b813-487b-b21e-c90a84367365",
+            "Prescription_id": "2a6e9572-d58e-4738-9f6f-077b1bc5d1e9",
+            "drug_description": "Metoprolol",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "3ce38918-0740-4ee1-b7e3-bb2566186bf3",
+            "Prescription_id": "a28c5f80-1eae-4f56-b32f-61abd79a0055",
+            "drug_description": "Paracetamol",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "b903ce81-ffd1-41ae-8225-4bcdeb1d7010",
+            "Prescription_id": "14442231-8db0-46a1-b0f1-0454e1e35651",
+            "drug_description": "Furosemide",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "417edc1d-af15-4e97-a998-572209f29e06",
+            "Prescription_id": "4989a4e9-d769-4d93-a603-922c621e54af",
+            "drug_description": "Azithromycin",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "153fd66a-28c7-440c-8f99-e352d7adce43",
+            "Prescription_id": "4c1c322a-0681-4435-acff-ef8acb25a7a5",
+            "drug_description": "Prednisone",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "e3d5fea1-ff9e-4787-9b76-473e0dea758c",
+            "Prescription_id": "b69ba51c-caf6-48f4-985e-d561519cc14a",
+            "drug_description": "Levothyroxine",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "aea082a8-ebf6-44e8-9a9f-ad93f6a2714b",
+            "Prescription_id": "9dcb782b-2559-4aca-81c8-e831b020072d",
+            "drug_description": "Furosemide",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "a304cd11-9985-499c-8fdb-4be262aeaa4f",
+            "Prescription_id": "d8613e59-eee2-4b73-9616-ff53c11a1349",
+            "drug_description": "Levothyroxine",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "a1aafe71-c9bb-4f14-9454-b1391e2fd1f0",
+            "Prescription_id": "58607732-4281-4c7f-a22b-0dccc230012d",
+            "drug_description": "Atorvastatin",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "a180f2ef-6528-4104-aaf7-3cb35b07f640",
+            "Prescription_id": "d8b992dd-cef3-4f80-aef6-8031ff0a3306",
+            "drug_description": "Amoxicillin",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "87094815-c787-4fcb-bf25-f42a8ea7f733",
+            "Prescription_id": "d50165a7-1b1e-4614-b46f-253a189de834",
+            "drug_description": "Pantoprazole",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "e8c26c27-4e04-4690-a3bf-3a7a66840c4c",
+            "Prescription_id": "abf99b0e-30be-42d4-bc9c-64ad99bae92b",
+            "drug_description": "Furosemide",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "4649c8c6-80c9-491e-964a-e3c7f26c603a",
+            "Prescription_id": "8956dcb5-8190-4fa9-b042-ef5bd645bfce",
+            "drug_description": "Aspirin",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "5ca26b07-d46a-43bb-99ed-031f38dc951e",
+            "Prescription_id": "e048de7e-fde1-42b1-958c-cc9e4868a088",
+            "drug_description": "Omeprazole",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "fb90fd0a-391f-4bf5-a7e1-a7b482623a57",
+            "Prescription_id": "7b8c9b6a-64ba-4940-b95d-067dcbd35681",
+            "drug_description": "Hydrochlorothiazide",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "40e9642e-fcb3-4065-b0b7-c5c52522d82e",
+            "Prescription_id": "dc459fcf-b658-4c69-b6d0-445ab26a42f7",
+            "drug_description": "Lisinopril",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "642c8dd9-58fd-4934-b243-f0ba98a86f9a",
+            "Prescription_id": "a24ab783-06ba-4d75-bbc1-4b969955663a",
+            "drug_description": "Metformin",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "62ac88f5-771c-4cbd-857d-ccbe18ee8e9d",
+            "Prescription_id": "6aa046be-0983-4d20-beee-e081c404de5b",
+            "drug_description": "Aspirin",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "572af600-5cbb-43dc-b4fc-e663f7a85390",
+            "Prescription_id": "a65b3b0b-0df6-422d-9e18-4643fa6962a5",
+            "drug_description": "Amoxicillin",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "f34e5fb8-2a4d-40d7-8add-938cedf934b4",
+            "Prescription_id": "11d1c334-de36-4bec-be01-5d516f7b1fa9",
+            "drug_description": "Sertraline",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "91b3ec83-45ec-4b4d-87ec-10b667159233",
+            "Prescription_id": "7f233307-243a-4765-ac40-5d5c889c8a1d",
+            "drug_description": "Ibuprofen",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "d8b8c17b-694d-4d38-a6d3-ccd2bdb608d3",
+            "Prescription_id": "8e3dcfb7-e4fd-4207-839e-4a045b480225",
+            "drug_description": "Pantoprazole",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "c0bbbb5c-9e36-42b0-86b9-011c661e9374",
+            "Prescription_id": "2bcf51aa-9a2a-4d3b-90ec-43959307ab87",
+            "drug_description": "Simvastatin",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "ba5ba51b-bd7b-4942-bd4d-0cbb84d67c0b",
+            "Prescription_id": "6b0d54f5-6ea1-408a-84d2-43e4f80bcbb5",
+            "drug_description": "Cetirizine",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "31de1f29-a267-4484-a728-4810cf76ec09",
+            "Prescription_id": "05a215aa-86f9-4b4e-ada5-22a580523bd6",
+            "drug_description": "Losartan",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "9db4b1fd-14c1-4277-b3d9-f701b0288cae",
+            "Prescription_id": "4bb70dca-5fdc-4d32-97e1-6d24ba3a6b27",
+            "drug_description": "Cetirizine",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "854dd8f3-99ed-410d-98da-0184c0c0dcf1",
+            "Prescription_id": "982d5b54-219e-4b77-85d4-4e4e7d66ead2",
+            "drug_description": "Azithromycin",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "aff17945-60be-49d4-bea1-98130d500c3c",
+            "Prescription_id": "4efb269a-58ea-44ff-a029-c139ba3b744b",
+            "drug_description": "Metoprolol",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "e1b81ab5-47ee-4998-a0c8-c8fd8ed6b826",
+            "Prescription_id": "b43e8fc8-23cd-47ea-adf0-b4eb642db56b",
+            "drug_description": "Simvastatin",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "5ad604bf-c6a3-476c-95f1-1fab58017c3a",
+            "Prescription_id": "e3c16415-efbb-49c7-b4b5-d9b47394f4f0",
+            "drug_description": "Lisinopril",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "12d96ca8-9844-4c87-bbeb-ccf27e865901",
+            "Prescription_id": "b37ff8e3-f1cf-42c3-adea-327246dfc44b",
+            "drug_description": "Prednisone",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "af8e4e2b-e8ff-4a23-8eb5-6d986687a9b6",
+            "Prescription_id": "735bf025-2da8-46bc-93de-e0d94eca0a04",
+            "drug_description": "Metformin",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "c1ad0479-33aa-44d4-9ae3-27a16ba1d2c6",
+            "Prescription_id": "4a4e2a79-f16c-4d1a-bddf-ef0be045d96f",
+            "drug_description": "Metformin",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "d70b0944-1fce-49bd-81f3-74be8434ab29",
+            "Prescription_id": "4860606d-4435-4c51-b112-2d7293f8d0c3",
+            "drug_description": "Paracetamol",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "750042cd-0898-47cb-9ad0-26820bf01161",
+            "Prescription_id": "88896dc2-ca61-4a83-adac-bcb0be2a15a9",
+            "drug_description": "Atorvastatin",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "a2889821-ee95-4884-bef8-7b894178a421",
+            "Prescription_id": "9483989f-8b4e-4bc5-8268-4ededca055f3",
+            "drug_description": "Hydrochlorothiazide",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "f517d6a4-895f-4306-8c8a-537ac11e637f",
+            "Prescription_id": "d0df0a3c-b767-413c-9001-aaa680efe0c7",
+            "drug_description": "Cetirizine",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "eb74515b-7a77-4d99-bc81-2298c3e5beee",
+            "Prescription_id": "93538498-ab11-4fac-9630-8a225d5dedba",
+            "drug_description": "Clopidogrel",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "fd4bf1e0-7d48-4266-bcce-6b458919e2d2",
+            "Prescription_id": "a24ab783-06ba-4d75-bbc1-4b969955663a",
+            "drug_description": "Clopidogrel",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "76d0a6e9-14f3-4d03-bb73-f7549e9e996d",
+            "Prescription_id": "18afe0f6-703f-42d3-a3eb-0d6d647e6565",
+            "drug_description": "Furosemide",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "e622eb1e-dd5b-4d3f-b342-583cf027db16",
+            "Prescription_id": "ec92c62b-3e5e-4919-8b37-13d4de42770a",
+            "drug_description": "Simvastatin",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "9131c36b-6a2b-4e4a-b889-085efab7ca16",
+            "Prescription_id": "2bcf51aa-9a2a-4d3b-90ec-43959307ab87",
+            "drug_description": "Furosemide",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "9903397f-cffb-4811-afd6-c220ac793ea6",
+            "Prescription_id": "b04f919f-90e3-4fd8-ac3f-3d7f35dbe8ec",
+            "drug_description": "Paracetamol",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "2e223e83-769e-4661-a768-0cc836a320e4",
+            "Prescription_id": "9acaebb1-b496-47c6-8d13-1357388b8f6b",
+            "drug_description": "Pantoprazole",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "d1d67c59-b875-4269-832b-f17f359618b2",
+            "Prescription_id": "58a5a6c6-e0d0-4c0d-ac21-9c91ebf1741d",
+            "drug_description": "Azithromycin",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "4e3f8375-9d5c-4d82-a662-9a6019ba759d",
+            "Prescription_id": "8fa7126c-22e1-4f6a-aa9c-39e6ab1e2f18",
+            "drug_description": "Amoxicillin",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "08ce2b8a-91cc-44ae-950b-022f87526fff",
+            "Prescription_id": "e483ad06-80c9-40d5-b1dc-4614c655c55c",
+            "drug_description": "Prednisone",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "2904631d-3722-4878-855e-32c7471aa200",
+            "Prescription_id": "dce44d57-5948-475f-99d0-a4e633981d16",
+            "drug_description": "Omeprazole",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "78727d1b-212c-4f28-9a06-705fe52742fb",
+            "Prescription_id": "adfca96f-7280-4efc-8c14-0b282713de56",
+            "drug_description": "Clopidogrel",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "99a3dd15-6af6-4576-a434-52d2df3ca74d",
+            "Prescription_id": "93538498-ab11-4fac-9630-8a225d5dedba",
+            "drug_description": "Aspirin",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "64bddce4-7eb6-4751-9b26-8e45da4af2d4",
+            "Prescription_id": "c744e9e6-b2be-496d-9c99-18ffb50a7ca5",
+            "drug_description": "Azithromycin",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "05e675e9-6ab3-46c8-a7db-4917ad81fb56",
+            "Prescription_id": "a59256c1-3c2d-47bc-838d-2797aff72a03",
+            "drug_description": "Azithromycin",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "dcf90e4b-0ca3-4726-8165-721dc89ae94b",
+            "Prescription_id": "e29ed48f-9c1c-4b58-ab94-31adc2c8f569",
+            "drug_description": "Levothyroxine",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "6f4acdd4-9187-4ac8-8c31-7827c910febe",
+            "Prescription_id": "a24ab783-06ba-4d75-bbc1-4b969955663a",
+            "drug_description": "Losartan",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "b523ad80-672d-4c1a-a52a-b9401c38886c",
+            "Prescription_id": "37a649fa-6ab6-4c58-b8d4-764914e1d628",
+            "drug_description": "Azithromycin",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "62f9e571-fde1-4d9f-bc79-c4f9fe334ac5",
+            "Prescription_id": "abc99f45-24e6-4e7f-9579-4297e4e43c27",
+            "drug_description": "Ibuprofen",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "6abd0954-fb4d-4578-b8b1-4face1294e2b",
+            "Prescription_id": "0b4e9129-b1a2-4508-8f87-13c09e289ce2",
+            "drug_description": "Amoxicillin",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "d5fee904-736d-4b9d-8ca2-b060d678f5a2",
+            "Prescription_id": "d2f26e54-53a7-4c26-861b-502eec547554",
+            "drug_description": "Losartan",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "c1392af3-b02e-4857-a73f-6bad7ba3ee49",
+            "Prescription_id": "7f233307-243a-4765-ac40-5d5c889c8a1d",
+            "drug_description": "Metformin",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "35d94005-0c18-4fbe-b617-711cf77371a7",
+            "Prescription_id": "46158d6f-2f4c-4229-9376-3dd79e73b59f",
+            "drug_description": "Levothyroxine",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "bd9b287b-49fb-465e-911e-7883e1497aa3",
+            "Prescription_id": "c17cd4c9-192d-47f3-8670-5110f537190c",
+            "drug_description": "Lisinopril",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "e5614bb2-000d-4e7f-ae61-0adcd0e56d4d",
+            "Prescription_id": "00d2f552-2354-4fa7-b55f-e7371ef12695",
+            "drug_description": "Metoprolol",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "4099a18a-5cea-4475-a734-d8a817377f27",
+            "Prescription_id": "d64ccd32-0a66-4064-a1c5-4feab20a816b",
+            "drug_description": "Omeprazole",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "6c9846c9-f320-499d-8a57-bd9cfc7efce0",
+            "Prescription_id": "0677aa25-ebcb-472b-8536-b1f3711aeee4",
+            "drug_description": "Clopidogrel",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "8899bbf7-fa39-417d-9bfb-4a3dafdaed9e",
+            "Prescription_id": "3a7ab248-a13d-43fa-be17-915e4615dee8",
+            "drug_description": "Simvastatin",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "edbd4971-f815-4106-b34a-0892b1624035",
+            "Prescription_id": "25636b80-314b-4a6b-850e-2bf39d163a4a",
+            "drug_description": "Metoprolol",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "8310dde6-74fa-4da0-bf42-e545f49d768d",
+            "Prescription_id": "e048de7e-fde1-42b1-958c-cc9e4868a088",
+            "drug_description": "Levothyroxine",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "81978dff-8fed-49a3-bd49-30ed614044eb",
+            "Prescription_id": "00e0d8cb-0565-496a-9447-95e6040957c2",
+            "drug_description": "Omeprazole",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "fecd2310-8c38-46af-9d06-aa83d8ff4713",
+            "Prescription_id": "ca4ae95b-1077-4636-ad66-60cde4a4f77f",
+            "drug_description": "Paracetamol",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "6d5d3a36-4c38-4afe-afff-3d23b031c8e3",
+            "Prescription_id": "a0d5bcc7-98f6-42ab-b79a-c3a2f7888a47",
+            "drug_description": "Sertraline",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "7f2cdd18-8ac8-4b81-b847-e24fcd554b26",
+            "Prescription_id": "1137e041-305a-4256-96f5-659c03592092",
+            "drug_description": "Furosemide",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "ecd7f2aa-72c6-4216-ad97-9b74de337e9d",
+            "Prescription_id": "72ab6105-4286-4f44-8ca0-6bdeecd08b9a",
+            "drug_description": "Losartan",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "134b415b-b879-49ea-ae75-4e5dc89d0deb",
+            "Prescription_id": "ecdbca13-f26c-4a91-8959-c24c2fc56cb8",
+            "drug_description": "Omeprazole",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "07ab6810-e8a4-4fdb-8f01-6b434b705e7f",
+            "Prescription_id": "decdc2ac-3c93-471b-babc-5bc989c02227",
+            "drug_description": "Lisinopril",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "51799097-d6ef-4984-8e54-b47195862567",
+            "Prescription_id": "c5087d2b-9c27-46ab-8363-4473b8423b6e",
+            "drug_description": "Amoxicillin",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "a1712dd3-47db-481c-b0b1-0202274bbcda",
+            "Prescription_id": "abe73409-6424-44ee-bbc0-39c9c3826fce",
+            "drug_description": "Prednisone",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "c3af8fee-cdd1-47d3-ad2a-9dca1f69e64a",
+            "Prescription_id": "f427bd0b-c769-452c-85e6-ed2250812c47",
+            "drug_description": "Pantoprazole",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "cf001986-583b-4b56-879f-6c5f2edbafac",
+            "Prescription_id": "2bcf51aa-9a2a-4d3b-90ec-43959307ab87",
+            "drug_description": "Prednisone",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "fe17b29d-f014-4fef-98b6-7c928e9f351b",
+            "Prescription_id": "3c49e264-c3f6-4b2c-bede-1046a2e7d43c",
+            "drug_description": "Metoprolol",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "4875ce87-e1b9-4417-87ce-23cad4e77945",
+            "Prescription_id": "37a649fa-6ab6-4c58-b8d4-764914e1d628",
+            "drug_description": "Losartan",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "96d9c3d9-04d3-4dd6-b0f4-a7ec9d366a39",
+            "Prescription_id": "fbaa711e-068e-4a86-a291-bf78bc3a121a",
+            "drug_description": "Cetirizine",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "cb77b9c1-bbf4-45c3-8eb2-c4356efb247c",
+            "Prescription_id": "79f7db79-f09a-4764-bd26-5f0cb261d744",
+            "drug_description": "Amoxicillin",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "bb382cba-108f-4ddb-8c1e-73302b8ecec2",
+            "Prescription_id": "6386f408-e6f6-4491-99fc-2f8bea301d87",
+            "drug_description": "Azithromycin",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "66d5831f-2d31-4c1c-a1ca-df8e176ac946",
+            "Prescription_id": "59c5679f-77cc-44fc-9e15-d8c42d7657de",
+            "drug_description": "Levothyroxine",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "7cadc8b1-0d49-4de1-9be7-f612d3328973",
+            "Prescription_id": "ab34845f-394a-4302-b27a-647f2ac91312",
+            "drug_description": "Amoxicillin",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "89031162-3f37-470c-b45f-c1fbe7604a53",
+            "Prescription_id": "1633b534-8c77-40e8-82b3-08965e5b4921",
+            "drug_description": "Metoprolol",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "91e0d1b5-684a-49b3-bc50-ec80ae85eeda",
+            "Prescription_id": "82a98921-4380-4c73-9009-8c73103133b5",
+            "drug_description": "Amoxicillin",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "6115a44b-f971-4a1a-a6eb-289749190644",
+            "Prescription_id": "efcc3ea0-c009-445e-9f71-e690373fe7e3",
+            "drug_description": "Hydrochlorothiazide",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "18f2473a-c296-40e1-9027-21769a724ce1",
+            "Prescription_id": "6aa34a2a-c8c5-482d-8700-2379e3923239",
+            "drug_description": "Metformin",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "32992f03-6a03-4ad1-a801-7c5219c5017c",
+            "Prescription_id": "0338fda3-b4b6-4f2f-ae05-00712260d80b",
+            "drug_description": "Furosemide",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "455caef9-bb38-49ca-8aec-3875a63b63e2",
+            "Prescription_id": "d52d3bc2-df7d-4f78-9633-c9804f6bb6a1",
+            "drug_description": "Aspirin",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "9c979520-89d3-4c1e-b764-9ac446c40eb2",
+            "Prescription_id": "efe7a854-e45e-47c1-990b-46526c2b960e",
+            "drug_description": "Losartan",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "f0975a11-7e73-4714-a0f2-6706ec924317",
+            "Prescription_id": "b69ba51c-caf6-48f4-985e-d561519cc14a",
+            "drug_description": "Simvastatin",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "8e0754a3-4200-4e3f-9406-2685b211dde9",
+            "Prescription_id": "4fbec09d-bc2a-4dbf-be06-7d9df9b0a8cb",
+            "drug_description": "Prednisone",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "ceb23861-98d7-4e2f-a86d-7bf70982baa3",
+            "Prescription_id": "a3e18f23-d709-41c6-a7f8-15c2e1ffffaf",
+            "drug_description": "Hydrochlorothiazide",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "7a1aee57-4ce3-453f-9f6d-7ea08907698c",
+            "Prescription_id": "bbb6b417-2e8a-46b8-810f-947c32b717d2",
+            "drug_description": "Prednisone",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "a9861f5f-dced-48e8-8ee5-846a17335a9b",
+            "Prescription_id": "e3c16415-efbb-49c7-b4b5-d9b47394f4f0",
+            "drug_description": "Ibuprofen",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "e3dd29b5-4559-40e8-915b-af351f028252",
+            "Prescription_id": "75b50926-a277-4de6-8fa4-ea8b02cdc174",
+            "drug_description": "Clopidogrel",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "88b315d0-1b76-4cdb-906c-125a5fd021ed",
+            "Prescription_id": "72ab6105-4286-4f44-8ca0-6bdeecd08b9a",
+            "drug_description": "Cetirizine",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "50e42b36-c6a0-4e51-9a48-264d7553e542",
+            "Prescription_id": "b04f919f-90e3-4fd8-ac3f-3d7f35dbe8ec",
+            "drug_description": "Metoprolol",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "3611df62-d446-42cc-8f4a-4ad4e1e132d0",
+            "Prescription_id": "418946e2-4a18-40b6-8958-00e384a8a4e4",
+            "drug_description": "Pantoprazole",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "f92acccf-425b-41ed-a789-d4d6e0d0ec95",
+            "Prescription_id": "f4503e29-6d52-419a-9b99-4c116b00316c",
+            "drug_description": "Simvastatin",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "72900b31-dd76-4d9f-a89b-7a1baf577fa6",
+            "Prescription_id": "f427bd0b-c769-452c-85e6-ed2250812c47",
+            "drug_description": "Paracetamol",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "5e0be49e-58b8-4388-82fd-e876ff749598",
+            "Prescription_id": "d58c7e72-b258-486e-9814-f18bcacd3b8c",
+            "drug_description": "Simvastatin",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "83b81668-fd1e-4944-a45f-82ca5f840677",
+            "Prescription_id": "6aa34a2a-c8c5-482d-8700-2379e3923239",
+            "drug_description": "Pantoprazole",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "3ca82146-5a53-4775-9e4a-d58290c199f5",
+            "Prescription_id": "c5ace5c4-a0f3-4aa2-a348-88aae91f38c2",
+            "drug_description": "Metoprolol",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "16b33d95-5279-4e93-b6c2-0378c2ee49d0",
+            "Prescription_id": "521bb86d-ef2c-4fc8-8c96-b2271bea9308",
+            "drug_description": "Omeprazole",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "54cd5bd8-1edf-429a-ab2c-c2234a573955",
+            "Prescription_id": "bc1314bc-24ab-4614-8ed6-081a3bea2444",
+            "drug_description": "Losartan",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "f01eb629-5cc6-45aa-9b2f-c1cdec2cfe56",
+            "Prescription_id": "2cfd23a6-53ed-4546-8c1d-c1c91502627e",
+            "drug_description": "Paracetamol",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "cb31efa2-90c7-4219-9392-e4ccb1ecc0dc",
+            "Prescription_id": "652afa62-3f28-4718-97dd-3dc1d71a93d0",
+            "drug_description": "Sertraline",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "77f614c3-a52e-4a8b-bb29-55f4c20c5ea0",
+            "Prescription_id": "521bb86d-ef2c-4fc8-8c96-b2271bea9308",
+            "drug_description": "Cetirizine",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "3b70bc46-b219-42ee-8304-fe67857042fa",
+            "Prescription_id": "4c1c322a-0681-4435-acff-ef8acb25a7a5",
+            "drug_description": "Simvastatin",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "f78ab01a-e86b-4d7d-8689-911afd6225c6",
+            "Prescription_id": "adfca96f-7280-4efc-8c14-0b282713de56",
+            "drug_description": "Azithromycin",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "b9b5d72a-667a-4f6b-96c4-abdbe6577cdb",
+            "Prescription_id": "32a0dabb-5ec9-4289-873e-48448a2654f8",
+            "drug_description": "Azithromycin",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "dd3869f3-70a6-4ff1-af83-cc0a8a65fbd9",
+            "Prescription_id": "1137e041-305a-4256-96f5-659c03592092",
+            "drug_description": "Lisinopril",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "0c5cfd8c-d07b-41b2-8e9b-9faf578f369d",
+            "Prescription_id": "d7e922f7-224d-4d37-9b59-467cb7b44ea1",
+            "drug_description": "Lisinopril",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "5d1575cd-a540-467a-9049-68abc66bfd8c",
+            "Prescription_id": "d7c0d029-8b43-486c-af61-b02de70694fc",
+            "drug_description": "Simvastatin",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "d121937a-6a32-48f2-8522-56eeb6146b27",
+            "Prescription_id": "58a5a6c6-e0d0-4c0d-ac21-9c91ebf1741d",
+            "drug_description": "Atorvastatin",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "cb221f84-c97e-4b62-b2e6-a8c8a0a7a525",
+            "Prescription_id": "b43e8fc8-23cd-47ea-adf0-b4eb642db56b",
+            "drug_description": "Clopidogrel",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "dd38a4db-3023-4dd2-b417-8b1f53be9d47",
+            "Prescription_id": "bc853339-1dc9-4545-869b-cb4270c4a545",
+            "drug_description": "Omeprazole",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "993d3912-fcc1-4ca1-a5c5-47dc11209a79",
+            "Prescription_id": "bae36a64-7bd5-4b46-92c9-9d06010b2142",
+            "drug_description": "Ibuprofen",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "9934dad3-9bfa-4e63-b834-287fdf9510f5",
+            "Prescription_id": "efe7a854-e45e-47c1-990b-46526c2b960e",
+            "drug_description": "Sertraline",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "15a03e74-7c72-4bcb-80e3-4d75d7c2c4d1",
+            "Prescription_id": "b6091819-a3ba-4a54-bff8-ce0efb6b9bdb",
+            "drug_description": "Amoxicillin",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "ab7343fb-7b30-48aa-bb24-b1a709972330",
+            "Prescription_id": "476cfe54-d563-40c9-9b44-6bdb05d18b7d",
+            "drug_description": "Pantoprazole",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "c1eebd74-df24-41a6-aa57-edc4fc53e8cf",
+            "Prescription_id": "19d0d378-1fac-4119-a4aa-8702e5e060ed",
+            "drug_description": "Losartan",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "4992fef1-4530-4916-ba12-b0e07a0e927e",
+            "Prescription_id": "9bcb269d-3101-4c4b-95e8-3b92172f827b",
+            "drug_description": "Metformin",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "ffc24621-a2bf-44b3-a767-49cbb8c1216f",
+            "Prescription_id": "8bbd87b4-7a89-457f-9d7e-4295c42b2986",
+            "drug_description": "Omeprazole",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "3217f08a-e113-4e0f-9954-415e5f57805f",
+            "Prescription_id": "08a64f9d-1654-4fe3-801b-cb4d0b118369",
+            "drug_description": "Pantoprazole",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "f0dd3fac-18a2-4347-b02f-aa41a968dcd1",
+            "Prescription_id": "a5693a6a-34d1-420d-a2af-52617aba59c7",
+            "drug_description": "Omeprazole",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "9f3a3633-66f0-4037-80c9-4dee9360d0ae",
+            "Prescription_id": "0379aa45-82fe-4560-91a2-ab62d492878d",
+            "drug_description": "Metformin",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "82cf08b4-7eb5-41e2-9578-f95328fdfdba",
+            "Prescription_id": "3961ade0-4777-4536-a5c5-9ddebbf1a581",
+            "drug_description": "Metoprolol",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "d267d3c7-a016-4769-bd38-f5b3507a6a36",
+            "Prescription_id": "aee038f1-b7b6-42e7-bf0a-9bac82a61da6",
+            "drug_description": "Aspirin",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "ea81f915-6070-480c-9ad3-04e48981ac7f",
+            "Prescription_id": "166d7407-bb92-42d4-b9f8-51879c2eaa17",
+            "drug_description": "Pantoprazole",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "3b1b039c-4a2b-4ea4-88ae-eeafb2cf3e8b",
+            "Prescription_id": "4860606d-4435-4c51-b112-2d7293f8d0c3",
+            "drug_description": "Aspirin",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "449b0c5b-e3af-46e7-84fd-7a3e82a8dc5e",
+            "Prescription_id": "0338fda3-b4b6-4f2f-ae05-00712260d80b",
+            "drug_description": "Sertraline",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "5c79c9ba-ef41-460c-afc5-036ba7f919fc",
+            "Prescription_id": "ca83571d-af1a-4cfc-9318-518df16c7e03",
+            "drug_description": "Sertraline",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "5afb82fc-85e0-4342-a8fc-d2ff9464d096",
+            "Prescription_id": "58a5a6c6-e0d0-4c0d-ac21-9c91ebf1741d",
+            "drug_description": "Simvastatin",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "411b26a0-ebbe-4b7c-94e4-fe472e7ec70e",
+            "Prescription_id": "8797ffac-ce7e-4063-b21b-c98ee615ccc8",
+            "drug_description": "Omeprazole",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "96870292-b19c-44d1-9922-173236bf9449",
+            "Prescription_id": "c5664298-9bfc-4a93-82ff-62fa202ba761",
+            "drug_description": "Amoxicillin",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "98df17ec-8e53-44c2-9274-9000cf39be47",
+            "Prescription_id": "844829b0-e7e4-4627-9545-42493abec8d0",
+            "drug_description": "Aspirin",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "4b701f0a-d3a7-4942-add5-48bbfbba29bc",
+            "Prescription_id": "01238cf2-3917-4556-bbbc-bf62bb6c14d1",
+            "drug_description": "Levothyroxine",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "5ca20531-ca92-4f8c-9e31-dcd95c734efa",
+            "Prescription_id": "4551f044-d0b3-41dd-9355-4db26ba54804",
+            "drug_description": "Omeprazole",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "afb86272-cf50-4db6-992a-af72c1d1ff95",
+            "Prescription_id": "6386f408-e6f6-4491-99fc-2f8bea301d87",
+            "drug_description": "Hydrochlorothiazide",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "66dfccb6-8ebb-4bc0-b9f5-828ed7eb8ae1",
+            "Prescription_id": "decdc2ac-3c93-471b-babc-5bc989c02227",
+            "drug_description": "Losartan",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "cf32b871-e206-459e-ba53-062ae8b06a17",
+            "Prescription_id": "efe7a854-e45e-47c1-990b-46526c2b960e",
+            "drug_description": "Cetirizine",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "2b34c28a-4fef-432a-80ba-ee11929319e0",
+            "Prescription_id": "b26186a9-3843-4909-b78f-6d75b24eddef",
+            "drug_description": "Pantoprazole",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "ff245fea-6e10-4175-bbf7-e1d3884f267b",
+            "Prescription_id": "768d3082-b3b0-4e82-9a7d-03d9fd32051b",
+            "drug_description": "Prednisone",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "e8aa0fb7-ac48-46e8-a074-45362e45d954",
+            "Prescription_id": "04e15147-26ea-4850-be09-8a82184ed110",
+            "drug_description": "Omeprazole",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "b23f19b4-4d92-4718-b4fe-b06e41672826",
+            "Prescription_id": "a24e3926-f947-4ae8-8c4e-abb70ab738b4",
+            "drug_description": "Ibuprofen",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "3fdb8da8-af27-4890-9852-a4cec0e866b1",
+            "Prescription_id": "27f00bfe-1859-4038-978d-0bb822d81a0c",
+            "drug_description": "Furosemide",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "e035c4c5-d8b0-4b9a-91d9-4f09ad860b89",
+            "Prescription_id": "8773ff37-c254-43b4-9315-c7f431bae2b6",
+            "drug_description": "Sertraline",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "384fe315-75d5-48c6-aad1-b8e9768035ae",
+            "Prescription_id": "73ba83c0-0511-4de1-bf63-ed528eda47f8",
+            "drug_description": "Amoxicillin",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "9f790b7e-7e45-473b-99ec-3afa59dc2c2f",
+            "Prescription_id": "04e15147-26ea-4850-be09-8a82184ed110",
+            "drug_description": "Aspirin",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "ea346342-1ddd-4e23-a514-328f60ccf715",
+            "Prescription_id": "37a649fa-6ab6-4c58-b8d4-764914e1d628",
+            "drug_description": "Hydrochlorothiazide",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "6dada59b-3804-4438-9c65-0ff9b49a8d17",
+            "Prescription_id": "8bbd87b4-7a89-457f-9d7e-4295c42b2986",
+            "drug_description": "Losartan",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "611b1288-c7aa-428f-a688-cfb81585e83a",
+            "Prescription_id": "a0d5bcc7-98f6-42ab-b79a-c3a2f7888a47",
+            "drug_description": "Azithromycin",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "7b5dd928-6af9-4b9d-9fff-09a26e9ffcc4",
+            "Prescription_id": "4fbec09d-bc2a-4dbf-be06-7d9df9b0a8cb",
+            "drug_description": "Atorvastatin",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "91f5b7b1-eabf-4865-8985-a77b9b3d928e",
+            "Prescription_id": "8a315ae1-3d05-4811-b66c-430d1d5d0473",
+            "drug_description": "Omeprazole",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "172e0873-2bb8-4da2-8c01-3a85d73bbb00",
+            "Prescription_id": "98d9b961-9b76-4021-ae00-1c3b48a49a3c",
+            "drug_description": "Amoxicillin",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "f155ecd2-ddff-4877-88f8-37987169bdec",
+            "Prescription_id": "a56ad440-5640-488d-a268-171474cf0849",
+            "drug_description": "Sertraline",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "155632f1-4c32-4d73-b926-b5d53fa1beb4",
+            "Prescription_id": "97f86da8-93b9-4615-8f59-54dd5b69bc2d",
+            "drug_description": "Hydrochlorothiazide",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "f61e11e1-687d-48d8-b9f7-9974285ea23a",
+            "Prescription_id": "a71a165f-475c-4499-85b1-c2e93e8b482f",
+            "drug_description": "Metoprolol",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "b111b0a6-f04c-4f46-aa0c-c1e625b53db7",
+            "Prescription_id": "b9ff1b2a-4829-4d2a-b81a-de14166a1347",
+            "drug_description": "Metoprolol",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "c14af1f4-c950-4bab-be62-03ee2c93c648",
+            "Prescription_id": "c5087d2b-9c27-46ab-8363-4473b8423b6e",
+            "drug_description": "Simvastatin",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "e014d2ff-3166-4b1a-bd66-8bae6ed9c535",
+            "Prescription_id": "cefb385d-4576-4632-8d69-de8392bb682f",
+            "drug_description": "Omeprazole",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "316762c1-0e87-404c-a919-0036ac8050ea",
+            "Prescription_id": "7c664a2b-321d-4f61-917c-6913a0cbda8a",
+            "drug_description": "Hydrochlorothiazide",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "5bd1574e-9a4c-4b68-9f34-191493e70d84",
+            "Prescription_id": "0f116cbc-dd4f-408b-a043-aaba98aa9c9c",
+            "drug_description": "Clopidogrel",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "ae3c3241-4781-4d6b-90ba-34178b4d8c08",
+            "Prescription_id": "4c0d32e6-a551-4d21-b26a-f461e673d81b",
+            "drug_description": "Metformin",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "9d09c7b6-77e0-40fb-af5a-3aff99b3947b",
+            "Prescription_id": "399b7541-3a59-4a1a-892c-abc0cd228f36",
+            "drug_description": "Atorvastatin",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "1892f727-70c7-4a60-a03a-10710e0067b1",
+            "Prescription_id": "9db4adef-ba27-45b1-9f64-4784f82dfede",
+            "drug_description": "Aspirin",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "5b6e5f7c-75b9-443d-8164-8567e5291a46",
+            "Prescription_id": "d3b7a229-7df7-4bfe-98c4-1b32624253b4",
+            "drug_description": "Omeprazole",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "a12aa55a-19b1-4619-9525-ffdb8611fea1",
+            "Prescription_id": "ad66f721-1556-48f8-a39f-da4327a75ed2",
+            "drug_description": "Furosemide",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "dd0871a9-55b8-4d89-8444-31e040e2c9d1",
+            "Prescription_id": "75f3e498-ad6a-4c18-ac00-02ef4093f149",
+            "drug_description": "Hydrochlorothiazide",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "71c4baf1-446e-4776-94a1-a67d69d38438",
+            "Prescription_id": "05022e4c-ecf0-4528-944d-2cea4bd6a5e1",
+            "drug_description": "Simvastatin",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "1bc4c280-5e3b-4276-817d-832bec7ed8a5",
+            "Prescription_id": "b19b87e6-5e36-4481-a056-e80a49faed52",
+            "drug_description": "Metformin",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "defa315d-54b9-497a-a329-e33dfb88397b",
+            "Prescription_id": "d8f30b1a-7858-4caa-9685-8f1a2e6c3d7a",
+            "drug_description": "Aspirin",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "c8da21c9-1cbf-4cfc-8ef8-329d0d184729",
+            "Prescription_id": "a02fef37-cadd-4b72-8425-f9caf23d775d",
+            "drug_description": "Simvastatin",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "41f5042a-588c-44b3-8861-94b0d37fdcdd",
+            "Prescription_id": "4a45fd45-8f29-487a-9979-b6d9466e970a",
+            "drug_description": "Azithromycin",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "b4165928-59b6-4f38-af9d-43f50c79230e",
+            "Prescription_id": "14442231-8db0-46a1-b0f1-0454e1e35651",
+            "drug_description": "Lisinopril",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "686275d3-effb-4ae3-b880-0c023c3ec811",
+            "Prescription_id": "d864f09f-1d04-4566-8f9c-57bdc7986f3d",
+            "drug_description": "Lisinopril",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "51327c76-f35b-4d6b-994d-fc4148a33374",
+            "Prescription_id": "85028b3b-56a9-4858-bce4-d4fbb0865617",
+            "drug_description": "Omeprazole",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "1c3cf0df-6114-4168-bde2-c99579b49b08",
+            "Prescription_id": "f4503e29-6d52-419a-9b99-4c116b00316c",
+            "drug_description": "Ibuprofen",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "e681eae0-1812-46f6-9353-d70d5aa78484",
+            "Prescription_id": "c5664298-9bfc-4a93-82ff-62fa202ba761",
+            "drug_description": "Amoxicillin",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "7567f4c7-70a8-4aaa-878e-074f9b442c12",
+            "Prescription_id": "a44dd8a5-d6a6-4a14-a4b9-542720f0425c",
+            "drug_description": "Metoprolol",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "cd5d9f0f-215e-47d6-a329-eb9c8a027f09",
+            "Prescription_id": "ebbea8e3-2eb9-4df1-b3b2-de2b844a1393",
+            "drug_description": "Amoxicillin",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "9b8d472d-6141-4a71-8f09-d211ccebf222",
+            "Prescription_id": "1bc2423e-ee2f-4a34-8350-19a12d58bf6b",
+            "drug_description": "Prednisone",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "1a9bd940-7e3d-40ce-a4f9-0ee830bc8f8f",
+            "Prescription_id": "06184c9c-4a19-4951-99a8-09afcaa607a6",
+            "drug_description": "Lisinopril",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "b5167558-ac26-48dd-9d2d-0df5a5fdf2f5",
+            "Prescription_id": "079629ab-e1f5-4011-80fc-c16282c12173",
+            "drug_description": "Simvastatin",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "a1c689fb-f92b-4e4a-a1e5-c43206f5fd22",
+            "Prescription_id": "bf7d7d67-fc12-4bef-8cbf-9eee072e4f4b",
+            "drug_description": "Azithromycin",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "77d1e45f-9e01-4015-8990-50a7b758ce1f",
+            "Prescription_id": "b51a8a80-b503-41e7-a920-06ddfad60463",
+            "drug_description": "Metformin",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "8f3380d3-913f-4dee-8c4a-ca92a1c0d36e",
+            "Prescription_id": "aee038f1-b7b6-42e7-bf0a-9bac82a61da6",
+            "drug_description": "Aspirin",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "93440ac9-edc5-48c1-af00-21d736a83567",
+            "Prescription_id": "7f233307-243a-4765-ac40-5d5c889c8a1d",
+            "drug_description": "Levothyroxine",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "d35614a2-921c-4b71-a4dd-45a839fed455",
+            "Prescription_id": "1054c924-19bc-4c9a-aa16-d334e20d455f",
+            "drug_description": "Pantoprazole",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "e9309136-8a76-4ab7-b9ab-ee60979bda74",
+            "Prescription_id": "d0df0a3c-b767-413c-9001-aaa680efe0c7",
+            "drug_description": "Ibuprofen",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "183c7aa8-5f5a-408d-844a-5cea309697a5",
+            "Prescription_id": "fbce265f-d2bc-436b-97f6-71802a2357cf",
+            "drug_description": "Prednisone",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "fa10e2ac-8513-4f4a-be77-5aa4b5c026cf",
+            "Prescription_id": "6b0d54f5-6ea1-408a-84d2-43e4f80bcbb5",
+            "drug_description": "Sertraline",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "14ead52b-0695-46be-ae96-7a18542bb375",
+            "Prescription_id": "943c6f7a-64ea-4461-b0bf-7bf832b8d0ac",
+            "drug_description": "Hydrochlorothiazide",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "0731cd07-a183-48b7-b8b8-a06283041d98",
+            "Prescription_id": "d67dd31c-0db1-47ef-a031-f9226ab1c0c2",
+            "drug_description": "Amoxicillin",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "e821e645-4aed-4d6d-bfc1-9ff104c7462f",
+            "Prescription_id": "af5ab426-0587-4732-8002-e985a43dcac2",
+            "drug_description": "Amoxicillin",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "9e0ae76f-ef0f-4202-b42a-8d2592752425",
+            "Prescription_id": "8e8290c1-be98-4533-a446-478fd640d0b2",
+            "drug_description": "Lisinopril",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "e745c87d-8a82-4211-8747-77663c1708c5",
+            "Prescription_id": "fbe8d311-b380-4864-a091-9614bd32ed2d",
+            "drug_description": "Metoprolol",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "62157b07-2198-416e-a856-e3be5752b327",
+            "Prescription_id": "d67dd31c-0db1-47ef-a031-f9226ab1c0c2",
+            "drug_description": "Atorvastatin",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "5db40302-dbee-4a3a-91a3-0c562b64c9c1",
+            "Prescription_id": "18b6556c-2fe3-42ca-b340-2ece8d52e00a",
+            "drug_description": "Pantoprazole",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "f91f8063-f21a-45b9-97dc-859365f7399e",
+            "Prescription_id": "58607732-4281-4c7f-a22b-0dccc230012d",
+            "drug_description": "Hydrochlorothiazide",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "90675318-ce56-4e57-bdff-49e2d5b6e121",
+            "Prescription_id": "fb5681cb-d0a1-4201-940f-5a9097262520",
+            "drug_description": "Furosemide",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "0164fccc-ecf2-433e-9d9d-9a5e79f66510",
+            "Prescription_id": "0ff8e511-e47b-40d6-b6b1-5e931d9b6c24",
+            "drug_description": "Cetirizine",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "e23afdf7-4761-4877-adb4-1af0274ff394",
+            "Prescription_id": "652afa62-3f28-4718-97dd-3dc1d71a93d0",
+            "drug_description": "Metoprolol",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "0e24a1c2-4e34-42ff-8ec5-a87b85b17d21",
+            "Prescription_id": "9db4adef-ba27-45b1-9f64-4784f82dfede",
+            "drug_description": "Azithromycin",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "c1b6baa9-c300-475f-b833-83aad92a3c14",
+            "Prescription_id": "824e9f77-7c0f-49dc-a269-da27eddd0182",
+            "drug_description": "Azithromycin",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "07711d02-2964-4e4a-8590-cb776212709f",
+            "Prescription_id": "d67dd31c-0db1-47ef-a031-f9226ab1c0c2",
+            "drug_description": "Pantoprazole",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "61bf7f1a-c48c-420e-8c87-80fb43c85a06",
+            "Prescription_id": "abe73409-6424-44ee-bbc0-39c9c3826fce",
+            "drug_description": "Metoprolol",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "594ce8f1-358e-4900-9098-798eb63607fe",
+            "Prescription_id": "3a7ab248-a13d-43fa-be17-915e4615dee8",
+            "drug_description": "Metformin",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "aa26d022-62cb-447f-a247-e033bacccdb9",
+            "Prescription_id": "d5f55bb7-1058-4ad3-b4b1-4a35af7b7d04",
+            "drug_description": "Simvastatin",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "46aa1275-d54e-4b54-ba7a-291d617f721d",
+            "Prescription_id": "dac985db-380e-4474-ba54-a011246c2c1d",
+            "drug_description": "Pantoprazole",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "96ec689b-169a-47dd-9adf-7e05f6a2f7a3",
+            "Prescription_id": "6857014a-0490-492b-94ac-c891682eb58c",
+            "drug_description": "Amoxicillin",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "6ff08fda-c905-4d3a-8c1f-e712b7658210",
+            "Prescription_id": "eabe15b8-5dfd-4a5d-9616-42ab838010b7",
+            "drug_description": "Lisinopril",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "1c55ee6d-a940-4fdd-8b9d-5a604e2c385b",
+            "Prescription_id": "d872872b-2bc6-4409-bf71-64bf0b5231ff",
+            "drug_description": "Sertraline",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "2d799a2f-912a-45d5-8ccb-f02240c4cc9e",
+            "Prescription_id": "4efb269a-58ea-44ff-a029-c139ba3b744b",
+            "drug_description": "Pantoprazole",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "d4709ac2-9636-4d46-9264-a7c341e21c7b",
+            "Prescription_id": "0338fda3-b4b6-4f2f-ae05-00712260d80b",
+            "drug_description": "Ibuprofen",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "d440490e-fec3-4825-8652-cd639c72e81f",
+            "Prescription_id": "2a47f520-20fb-4388-a814-3bf2c5edec62",
+            "drug_description": "Omeprazole",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "70f9aa57-09eb-4612-acf4-86afff349845",
+            "Prescription_id": "d8f30b1a-7858-4caa-9685-8f1a2e6c3d7a",
+            "drug_description": "Omeprazole",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "ada8ef96-460a-4422-8618-2777e15dd082",
+            "Prescription_id": "47dc44fc-ba21-4ee5-8d9e-d552b4bdfb78",
+            "drug_description": "Azithromycin",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "3b5e1817-ebeb-48f6-a775-92d7badba26d",
+            "Prescription_id": "436c0d6f-e2b5-445a-a106-236ed9504514",
+            "drug_description": "Clopidogrel",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "e4da0635-b090-4512-a0a8-93be053e0d48",
+            "Prescription_id": "6b0d54f5-6ea1-408a-84d2-43e4f80bcbb5",
+            "drug_description": "Metformin",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "e9ca54b7-a350-4274-b9f8-93a1558dab0e",
+            "Prescription_id": "46158d6f-2f4c-4229-9376-3dd79e73b59f",
+            "drug_description": "Cetirizine",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "a025b910-99e5-4952-8819-13bc52140230",
+            "Prescription_id": "2bcf51aa-9a2a-4d3b-90ec-43959307ab87",
+            "drug_description": "Furosemide",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "5258e94d-abba-45f2-a60b-511d56e28802",
+            "Prescription_id": "e98559c7-1c4b-422a-a33b-881f28e3e568",
+            "drug_description": "Amoxicillin",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "2a53932f-ada1-45ce-9001-0292dc401a3d",
+            "Prescription_id": "b8fb0f1b-196b-42b1-9d37-181a820a32da",
+            "drug_description": "Levothyroxine",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "80c54346-8be1-420c-9a41-1c7de51f5c54",
+            "Prescription_id": "8e914797-439f-49ac-a4d0-68406edcddd6",
+            "drug_description": "Ibuprofen",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "1924f70b-f3b0-48d2-bbf1-bbf7d49f7373",
+            "Prescription_id": "521bb86d-ef2c-4fc8-8c96-b2271bea9308",
+            "drug_description": "Paracetamol",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "00ad959b-55b0-407f-9b5f-c31a2c694936",
+            "Prescription_id": "aa094dcb-7987-467a-88c0-af3517f24920",
+            "drug_description": "Losartan",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "e4a82f71-9de7-43bb-a0f4-abeabb026cdd",
+            "Prescription_id": "27f00bfe-1859-4038-978d-0bb822d81a0c",
+            "drug_description": "Hydrochlorothiazide",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "6cd3e79b-ebb1-4ac2-b16b-c10f89a1db74",
+            "Prescription_id": "6b0d54f5-6ea1-408a-84d2-43e4f80bcbb5",
+            "drug_description": "Prednisone",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "f59e26a4-14a4-48a4-b62e-eaa2fedeb807",
+            "Prescription_id": "d52df9fa-ef29-42e7-acf0-ed3377e4a668",
+            "drug_description": "Hydrochlorothiazide",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "d19c0f17-b64d-4f94-aecd-ed8c492ebd0c",
+            "Prescription_id": "bc265f58-a55c-4e12-91e8-496a90052b76",
+            "drug_description": "Lisinopril",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "6d6eb0d2-72e8-4c71-88c6-c3631d5bfc96",
+            "Prescription_id": "06184c9c-4a19-4951-99a8-09afcaa607a6",
+            "drug_description": "Azithromycin",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "01c13aa2-0a34-4243-bb00-9fdabac735bf",
+            "Prescription_id": "13c41032-a423-4464-9d24-deeba11372ae",
+            "drug_description": "Aspirin",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "1a144213-d0d5-4dfd-a1e1-c1c870f7e08e",
+            "Prescription_id": "9cd320b2-382c-4e15-9e16-b45aa945e56b",
+            "drug_description": "Cetirizine",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "b9797ed3-0d13-4ceb-ad8d-3d8906ad5e4e",
+            "Prescription_id": "6aa27856-c389-43f6-9f05-b1edfb87a993",
+            "drug_description": "Paracetamol",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "aa5caf6c-f467-4e26-aa0d-0c6ade0b6d50",
+            "Prescription_id": "88896dc2-ca61-4a83-adac-bcb0be2a15a9",
+            "drug_description": "Metoprolol",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "6f6d56da-9188-495e-94b7-272ea4718204",
+            "Prescription_id": "aea64985-bd12-4e24-8e66-90f7c9269b82",
+            "drug_description": "Sertraline",
+            "dose_frequency": "Three times a day"
+        },
+        {
+            "Id": "ef0f2635-fd30-4d95-bfe4-2b36d9d005b6",
+            "Prescription_id": "a24e3926-f947-4ae8-8c4e-abb70ab738b4",
+            "drug_description": "Pantoprazole",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "63a13fdc-3af3-4762-888c-0b7171b76481",
+            "Prescription_id": "3468c26e-0fce-4712-8976-f78315f9ed61",
+            "drug_description": "Aspirin",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "eb4ff342-21b1-431e-ad5a-b2e87e9587d1",
+            "Prescription_id": "0ab95f53-2c9c-4308-b6ee-b54a1a9da294",
+            "drug_description": "Metformin",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "4a17f377-0565-4172-ba1c-0becfffae21b",
+            "Prescription_id": "88896dc2-ca61-4a83-adac-bcb0be2a15a9",
+            "drug_description": "Paracetamol",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "20e78c9d-5091-4edf-9dc5-ac20d6bd03cc",
+            "Prescription_id": "51dc7c43-f193-4e5c-b3c9-d79e0a0fd254",
+            "drug_description": "Paracetamol",
+            "dose_frequency": "Once a day"
+        },
+        {
+            "Id": "db18e0fe-c967-4efc-96f5-dd5a7356f6ed",
+            "Prescription_id": "5d69dcb9-3a25-4ee4-95bb-11281c795c9f",
+            "drug_description": "Ibuprofen",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "9b68c300-19f0-4ebc-876b-d503855dfd3a",
+            "Prescription_id": "b80a0bd6-7907-4239-84fa-1a084d38ac97",
+            "drug_description": "Atorvastatin",
+            "dose_frequency": "Twice a day"
+        },
+        {
+            "Id": "9785ba83-07ea-4516-be1b-853008d708b7",
+            "Prescription_id": "ba7890d2-8592-497e-9d30-afd5640f5fa0",
+            "drug_description": "Azithromycin",
+            "dose_frequency": "Once a day"
+        }
+    ]
+}
