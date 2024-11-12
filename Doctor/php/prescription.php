@@ -14,12 +14,12 @@ if ($conn->connect_error) {
 }
 
 // Prepare and bind the SQL statement to prevent SQL injection
-$sql = "INSERT INTO prescriptions (patient_name, aadhaar, mrn, date, age, sex, height, weight, bmi, diagnosis, allergies, followup_date, doctor_name, dispensed_by, checked_by) 
-        VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)";
+$sql = "INSERT INTO prescriptions (patient_name, aadhaar, mrn, date, age, sex, height, weight, bmi, diagnosis, allergies, followup_date, doctor_name) 
+        VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)";
 
 $stmt = $conn->prepare($sql);
-$stmt->bind_param("sssssssssssssss",
-    $patient_name, $aadhaar, $mrn, $date, $age, $sex, $height, $weight, $bmi, $diagnosis, $allergies, $followup_date, $doctor_name, $dispensed_by, $checked_by);
+$stmt->bind_param("sssssssssssss",
+    $patient_name, $aadhaar, $mrn, $date, $age, $sex, $height, $weight, $bmi, $diagnosis, $allergies, $followup_date, $doctor_name);
 
 // Retrieve form data, sanitizing input to prevent security vulnerabilities
 $patient_name = htmlspecialchars($_POST['name']);
@@ -35,8 +35,6 @@ $diagnosis = htmlspecialchars($_POST['diagnosis']);
 $allergies = htmlspecialchars($_POST['allergies']);
 $followup_date = htmlspecialchars($_POST['followup_date']);
 $doctor_name = htmlspecialchars($_POST['doctor_name']);
-$dispensed_by = htmlspecialchars($_POST['dispensed_by']);
-$checked_by = htmlspecialchars($_POST['checked_by']);
 
 // Execute the statement
 if ($stmt->execute()) {
